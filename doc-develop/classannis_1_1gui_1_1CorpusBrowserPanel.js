@@ -21,5 +21,6 @@ var classannis_1_1gui_1_1CorpusBrowserPanel =
     [ "tblEdgeAnno", "classannis_1_1gui_1_1CorpusBrowserPanel.html#aab7fbd3e297adcb9d0986ec818585042", null ],
     [ "tblEdgeTypes", "classannis_1_1gui_1_1CorpusBrowserPanel.html#ad678df7b72ce276cf354623f87752b9a", null ],
     [ "tblMetaAnno", "classannis_1_1gui_1_1CorpusBrowserPanel.html#a2a278bdbf8b8fdf1df1f4bd5d55253d5", null ],
-    [ "tblNodeAnno", "classannis_1_1gui_1_1CorpusBrowserPanel.html#a92fe78dc226442be1473c9588d1a5e75", null ]
+    [ "tblNodeAnno", "classannis_1_1gui_1_1CorpusBrowserPanel.html#a92fe78dc226442be1473c9588d1a5e75", null ],
+    [ "urlPathEscape", "classannis_1_1gui_1_1CorpusBrowserPanel.html#a96a1c469447af975d642420ede33866e", null ]
 ];

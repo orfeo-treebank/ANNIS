@@ -18,8 +18,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Enumerator", "functions_eval.html", null ]
+        [ "Variables", "functions_vars.html", "functions_vars" ]
       ] ]
     ] ],
     [ "Files", null, [
@@ -30,39 +29,33 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"ANNISRolePermissionResolver_8java.html",
-"MediaState_8java.html",
-"classannis_1_1AnnisBaseRunner.html#afc65e958fabc66d01da3b807f611c7ee",
-"classannis_1_1administration_1_1CorpusAdministration_1_1ImportStatsImpl.html#a842f64cb4c0b2b3b7bb3248ebfc6cae8",
-"classannis_1_1dao_1_1SpringAnnisDao.html#a5c37d2056e6c3906cb48bf50eee86580",
-"classannis_1_1gui_1_1CorpusBrowserPanel.html#a3dfedda3094a4725d7dce2955908f711",
-"classannis_1_1gui_1_1ReportBugWindow_1_1BugReport.html#a62141eaf77c4ca58aaec098f67f95111",
-"classannis_1_1gui_1_1admin_1_1converter_1_1TreeSetConverter.html#a925b7b67a67899c703524f472b0d6046",
-"classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener.html",
-"classannis_1_1gui_1_1flatquerybuilder_1_1EdgeBox.html#ae7fa9e159adf66dfdbb5ffa148439f15",
-"classannis_1_1gui_1_1frequency_1_1FrequencyQueryPanel.html#a5598b5b1e53a835e3e0413e4748457ff",
-"classannis_1_1gui_1_1requesthandler_1_1ContentRange_1_1InvalidRangeException.html",
-"classannis_1_1gui_1_1widgets_1_1grid_1_1AnnotationGrid.html#a64f05e4065ac9e271233ee7f9bb189ec",
-"classannis_1_1libgui_1_1Helper.html#aa88619becfbb60db5e15727f3f7647ac",
-"classannis_1_1model_1_1AnnisNode.html#ac02fbb5d9984ba0b81cab515e7502220",
-"classannis_1_1model_1_1QueryNode.html#af9151d7d5b6e14239afc5fd4e511dd22",
-"classannis_1_1ql_1_1parser_1_1QueryNodeListener.html#a67fbf481b5c8cb13d352afdb55d294a1",
-"classannis_1_1service_1_1internal_1_1MetadataServiceImpl.html#a7d405714bcfe7ddc1cbb6a2ff34b61b3",
-"classannis_1_1service_1_1objects_1_1ImportJob.html#a85cdf11d3de5676d1e1b4cb27dfc1a23",
-"classannis_1_1sqlgen_1_1AomAnnotateExtractor.html#a2d4cf006f8e4e40892b23027c0a6c281",
-"classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#a15fed1326f1c0761842de151ef59f8d1",
-"classannis_1_1sqlgen_1_1model_1_1NotEqualValue.html",
-"classannis_1_1visualizers_1_1component_1_1kwic_1_1KWICComponent.html#a16c06647ad00bf4d4c4303faba5aea36",
-"classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#a0105c1c847bd1abe2c4792eec3daf238",
-"classannis_1_1visualizers_1_1iframe_1_1dependency_1_1VakyarthaDependencyTree.html#a8366e2d8e4dbbc62215d0cf0c4a9c0e0",
-"dev-aql.html#dev-aql-leftalign",
-"functions_m.html",
-"interfaceannis_1_1service_1_1MetadataService.html",
-"namespaceannis_1_1visualizers_1_1component_1_1tree_1_1backends.html"
+"ANNISFontIcon_8java.html",
+"MediaControllerImpl_8java.html",
+"classannis_1_1AnnisBaseRunner.html#aa2c5fe095e874236db86dd1c34dbcdd5",
+"classannis_1_1administration_1_1CorpusAdministration.html#ac7e49703ff239e6793e9919ef93f4791",
+"classannis_1_1gui_1_1ExportPanel.html#a120804a0936b6994d805b10295edc9c6",
+"classannis_1_1gui_1_1admin_1_1ImportPanel.html#a5ca5647f971d9d49be33431337557e88",
+"classannis_1_1gui_1_1components_1_1HelpButton_3_01T_01_4.html#a7ec3e75981cfb802bba223b9f4f267d5",
+"classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a8c036b7e96ba76e05e2a0fc7b23d6bc9",
+"classannis_1_1gui_1_1flatquerybuilder_1_1ReducingStringComparator.html#a2ada1242d336d957edf354959af029dc",
+"classannis_1_1gui_1_1querybuilder_1_1NodeWindow.html#a3448afccf1fd74c65d5b626813710eb5",
+"classannis_1_1gui_1_1resultview_1_1SingleResultPanel_1_1MinMax.html",
+"classannis_1_1gui_1_1widgets_1_1gwt_1_1client_1_1ui_1_1VJITWrapper.html#af8e03be7163aa012bd1fd4afadf62eab",
+"classannis_1_1model_1_1Annotation.html#a96c604650ae618588022fc0af8a9ad48",
+"classannis_1_1model_1_1RelannisNodeFeature.html#aff78be022690be41041f9f79eff2d585",
+"classannis_1_1resolver_1_1ResolverEntry.html#ae544b4ca05b273361ef1821703c5be65",
+"classannis_1_1service_1_1objects_1_1FrequencyTable.html#ab323e0883d499f26bcdcae74909f0bc6",
+"classannis_1_1sqlgen_1_1AomAnnotateExtractor_1_1ComponentEntry.html#a27688c1fbb71a7f7e13e202d5f442b0f",
+"classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#a731929094b4ec6e3d5f31c411dc2be08",
+"classannis_1_1sqlgen_1_1model_1_1Precedence.html#a6ff704571cbb3925535c5ef0590941a8",
+"classannis_1_1visualizers_1_1component_1_1pdf_1_1PDFFullVisualizer.html#a4032f472f74e52d72fe03fcf19b5b86b",
+"classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a9663e1c24697b223b77d1a2d5e7f5c0f",
+"classannis_1_1visualizers_1_1iframe_1_1partitur_1_1DetectHoles.html#a6f75c8d9d09f6283646f4b5ca4414531",
+"enumannis_1_1gui_1_1querybuilder_1_1AQLOperator.html#aafdea070a5e3b243ddb508dc29529c6e",
+"interfaceannis_1_1dao_1_1AnnisDao.html#a090a082f7337eaf3f845f7cf08d58f0a",
+"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#ab2bdeec58d729ff07e95e9b279e85a57"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
 var SYNCONMSG = 'click to disable panel synchronisation';
 var SYNCOFFMSG = 'click to enable panel synchronisation';
 var navTreeSubIndices = new Array();
@@ -87,6 +80,21 @@ function stripPath2(uri)
   return m ? uri.substring(i-6) : s;
 }
 
+function hashValue()
+{
+  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g,'');
+}
+
+function hashUrl()
+{
+  return '#'+hashValue();
+}
+
+function pathName()
+{
+  return $(location).attr('pathname').replace(/[^-A-Za-z0-9+&@#/%?=~_|!:,.;\(\)]/g, '');
+}
+
 function localStorageSupported()
 {
   try {
@@ -109,7 +117,7 @@ function deleteLink()
 {
   if (localStorageSupported()) {
     window.localStorage.setItem('navpath','');
-  } 
+  }
 }
 
 function cachedLink()
@@ -181,11 +189,13 @@ var animationInProgress = false;
 function gotoAnchor(anchor,aname,updateLocation)
 {
   var pos, docContent = $('#doc-content');
-  if (anchor.parent().attr('class')=='memItemLeft' ||
-      anchor.parent().attr('class')=='fieldtype' ||
-      anchor.parent().is(':header')) 
+  var ancParent = $(anchor.parent());
+  if (ancParent.hasClass('memItemLeft') ||
+      ancParent.hasClass('fieldname') ||
+      ancParent.hasClass('fieldtype') ||
+      ancParent.is(':header'))
   {
-    pos = anchor.parent().position().top;
+    pos = ancParent.position().top;
   } else if (anchor.position()) {
     pos = anchor.position().top;
   }
@@ -243,7 +253,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
     a.className = stripPath(link.replace('#',':'));
     if (link.indexOf('#')!=-1) {
       var aname = '#'+link.split('#')[1];
-      var srcPage = stripPath($(location).attr('pathname'));
+      var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
       a.href = srcPage!=targetPage ? url : "javascript:void(0)"; 
       a.onclick = function(){
@@ -337,14 +347,13 @@ function glowEffect(n,duration)
 
 function highlightAnchor()
 {
-  var aname = $(location).attr('hash');
+  var aname = hashUrl();
   var anchor = $(aname);
   if (anchor.parent().attr('class')=='memItemLeft'){
-    var rows = $('.memberdecls tr[class$="'+
-               window.location.hash.substring(1)+'"]');
+    var rows = $('.memberdecls tr[class$="'+hashValue()+'"]');
     glowEffect(rows.children(),300); // member without details
-  } else if (anchor.parents().slice(2).prop('tagName')=='TR') {
-    glowEffect(anchor.parents('div.memitem'),1000); // enum value
+  } else if (anchor.parent().attr('class')=='fieldname'){
+    glowEffect(anchor.parent().parent(),1000); // enum value
   } else if (anchor.parent().attr('class')=='fieldtype'){
     glowEffect(anchor.parent().parent(),1000); // struct field
   } else if (anchor.parent().is(":header")) {
@@ -359,7 +368,7 @@ function selectAndHighlight(hash,n)
 {
   var a;
   if (hash) {
-    var link=stripPath($(location).attr('pathname'))+':'+hash.substring(1);
+    var link=stripPath(pathName())+':'+hash.substring(1);
     a=$('.item a[class$="'+link+'"]');
   }
   if (a && a.length) {
@@ -470,14 +479,13 @@ function navTo(o,root,hash,relpath)
   if (link) {
     var parts = link.split('#');
     root = parts[0];
-    if (parts.length>1) hash = '#'+parts[1];
+    if (parts.length>1) hash = '#'+parts[1].replace(/[^\w\-]/g,'');
     else hash='';
   }
   if (hash.match(/^#l\d+$/)) {
     var anchor=$('a[name='+hash.substring(1)+']');
     glowEffect(anchor.parent(),1000); // line number
     hash=''; // strip line number anchors
-    //root=root.replace(/_source\./,'.'); // source link to doc link
   }
   var url=root+hash;
   var i=-1;
@@ -511,7 +519,7 @@ function toggleSyncButton(relpath)
   if (navSync.hasClass('sync')) {
     navSync.removeClass('sync');
     showSyncOff(navSync,relpath);
-    storeLink(stripPath2($(location).attr('pathname'))+$(location).attr('hash'));
+    storeLink(stripPath2(pathName())+hashUrl());
   } else {
     navSync.addClass('sync');
     showSyncOn(navSync,relpath);
@@ -551,7 +559,7 @@ function initNavTree(toroot,relpath)
   }
 
   $(window).load(function(){
-    navTo(o,toroot,window.location.hash,relpath);
+    navTo(o,toroot,hashUrl(),relpath);
     showRoot();
   });
 
@@ -559,21 +567,20 @@ function initNavTree(toroot,relpath)
      if (window.location.hash && window.location.hash.length>1){
        var a;
        if ($(location).attr('hash')){
-         var clslink=stripPath($(location).attr('pathname'))+':'+
-                               $(location).attr('hash').substring(1);
-         a=$('.item a[class$="'+clslink+'"]');
+         var clslink=stripPath(pathName())+':'+hashValue();
+         a=$('.item a[class$="'+clslink.replace(/</g,'\\3c ')+'"]');
        }
        if (a==null || !$(a).parent().parent().hasClass('selected')){
          $('.item').removeClass('selected');
          $('.item').removeAttr('id');
        }
-       var link=stripPath2($(location).attr('pathname'));
-       navTo(o,link,$(location).attr('hash'),relpath);
+       var link=stripPath2(pathName());
+       navTo(o,link,hashUrl(),relpath);
      } else if (!animationInProgress) {
        $('#doc-content').scrollTop(0);
        $('.item').removeClass('selected');
        $('.item').removeAttr('id');
-       navTo(o,toroot,window.location.hash,relpath);
+       navTo(o,toroot,hashUrl(),relpath);
      }
   })
 }

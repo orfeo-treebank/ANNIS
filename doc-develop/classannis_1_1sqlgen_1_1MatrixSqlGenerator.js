@@ -1,7 +1,7 @@
 var classannis_1_1sqlgen_1_1MatrixSqlGenerator =
 [
     [ "addAnnoSelectionCondition", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#afa5e8734589001cc309fedb34a3a1082", null ],
-    [ "addFromOuterJoins", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#a08e1fc7da75e26f31f21540dd4994c71", null ],
+    [ "addFromOuterJoins", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#afc48bc3977a3bfeff1ccb2bc6dd578fe", null ],
     [ "createSolutionKey", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#aa8e4930d85094949530fb6d97bfa8c6a", null ],
     [ "extractData", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#ab86b8d3c8e2e72d1d22cb6057226cdaf", null ],
     [ "fromClause", "classannis_1_1sqlgen_1_1MatrixSqlGenerator.html#a16030c125082b217e9dd86651797ad1a", null ],

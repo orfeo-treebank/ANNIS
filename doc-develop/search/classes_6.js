@@ -13,7 +13,6 @@ var searchData=
   ['gridtreevisualizer',['GridTreeVisualizer',['../classannis_1_1visualizers_1_1component_1_1gridtree_1_1GridTreeVisualizer.html',1,'annis::visualizers::component::gridtree']]],
   ['gridvisualizer',['GridVisualizer',['../classannis_1_1visualizers_1_1component_1_1grid_1_1GridVisualizer.html',1,'annis::visualizers::component::grid']]],
   ['gripdragcomponent',['GripDragComponent',['../classannis_1_1gui_1_1widgets_1_1GripDragComponent.html',1,'annis::gui::widgets']]],
-  ['gripdragcomponentconnector',['GripDragComponentConnector',['../classannis_1_1gui_1_1widgets_1_1gwt_1_1client_1_1ui_1_1GripDragComponentConnector.html',1,'annis::gui::widgets::gwt::client::ui']]],
   ['group',['Group',['../classannis_1_1security_1_1Group.html',1,'annis::security']]],
   ['groupbyclausesqlgenerator_3c_20t_20_3e',['GroupByClauseSqlGenerator&lt; T &gt;',['../interfaceannis_1_1sqlgen_1_1GroupByClauseSqlGenerator_3_01T_01_4.html',1,'annis::sqlgen']]],
   ['groupcontroller',['GroupController',['../classannis_1_1gui_1_1admin_1_1controller_1_1GroupController.html',1,'annis::gui::admin::controller']]],

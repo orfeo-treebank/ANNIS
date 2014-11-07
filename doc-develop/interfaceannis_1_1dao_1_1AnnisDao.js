@@ -40,7 +40,7 @@ var interfaceannis_1_1dao_1_1AnnisDao =
     [ "mapCorpusNameToId", "interfaceannis_1_1dao_1_1AnnisDao.html#aba1957411ba8bba23dada356f588d205", null ],
     [ "matrix", "interfaceannis_1_1dao_1_1AnnisDao.html#a064a97b99c988639a3d16799884e7635", null ],
     [ "parseAQL", "interfaceannis_1_1dao_1_1AnnisDao.html#a4475558799e3742c66880315eed7e906", null ],
-    [ "retrieveAnnotationGraph", "interfaceannis_1_1dao_1_1AnnisDao.html#a87285c8fcf53222506e4fd69f39e6a82", null ],
+    [ "retrieveAnnotationGraph", "interfaceannis_1_1dao_1_1AnnisDao.html#aac66c6c19e71e298531e33759cd9d1ea", null ],
     [ "setCorpusConfiguration", "interfaceannis_1_1dao_1_1AnnisDao.html#a959c99ec11da0e4c949b436196987d50", null ],
     [ "setCorpusConfiguration", "interfaceannis_1_1dao_1_1AnnisDao.html#a5dac6381caadb11184e50c85fd4eff7c", null ],
     [ "setTimeout", "interfaceannis_1_1dao_1_1AnnisDao.html#a3426b36abc3bc0815480ece15130d0cb", null ]

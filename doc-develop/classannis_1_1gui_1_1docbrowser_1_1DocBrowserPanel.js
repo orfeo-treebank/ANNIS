@@ -14,5 +14,6 @@ var classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel =
     [ "PAGE_SIZE", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#a2809c1c50c8ff99402f29997849b1922", null ],
     [ "progress", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#aacf8b2182e04aa70b8fe7e743e353aa8", null ],
     [ "table", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#a047f03983f2493e053a908fc7c232bd5", null ],
-    [ "ui", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#a2302cd8b88cab4f30b130b12e242514a", null ]
+    [ "ui", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#a2302cd8b88cab4f30b130b12e242514a", null ],
+    [ "urlPathEscape", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html#a4c165d18cebdc732e71122127c763e9c", null ]
 ];

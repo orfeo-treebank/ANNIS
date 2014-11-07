@@ -23,6 +23,7 @@ var classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter =
     [ "constant", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a7a3cc252ff2828c837900406bb630f6b", null ],
     [ "element", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a8710a6401ca7ea73f2a424f4d7aef52d", null ],
     [ "hshMeta", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#aba92b2fcf83e59479a753f13a1047983", null ],
+    [ "htmlEscaper", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a97f420d2db78a1ada815273526c2b213", null ],
     [ "metaname", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a1f8eff592c84b4164f0fc37501fe5942", null ],
     [ "NULL_VAL", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a2b37a02b72089a6622d7d6bb897e1daa", null ],
     [ "style", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html#a77e126169338bbc8e1f342456755b09e", null ],

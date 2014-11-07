@@ -1,6 +1,6 @@
 var classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher =
 [
-    [ "DocVisualizerFetcher", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a900354b4c6e908a164a7c1022ad55425", null ],
+    [ "DocVisualizerFetcher", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a8c036b7e96ba76e05e2a0fc7b23d6bc9", null ],
     [ "run", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a86bd84c9d2d8516ec1044183e0ffa09f", null ],
     [ "btn", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#ad9ef08911033cda9dcd1dee6a4cc0564", null ],
     [ "canonicalTitle", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a3774eca6d49ccc35dd95c0a1b661caeb", null ],

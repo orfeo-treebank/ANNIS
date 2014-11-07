@@ -47,6 +47,7 @@ var namespaceannis_1_1sqlgen =
     [ "SaltAnnotateExtractor", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor" ],
     [ "SampleWhereClause", "classannis_1_1sqlgen_1_1SampleWhereClause.html", "classannis_1_1sqlgen_1_1SampleWhereClause" ],
     [ "SelectClauseSqlGenerator< T >", "interfaceannis_1_1sqlgen_1_1SelectClauseSqlGenerator_3_01T_01_4.html", "interfaceannis_1_1sqlgen_1_1SelectClauseSqlGenerator_3_01T_01_4" ],
+    [ "SelectedFactsFromClauseGenerator", "classannis_1_1sqlgen_1_1SelectedFactsFromClauseGenerator.html", "classannis_1_1sqlgen_1_1SelectedFactsFromClauseGenerator" ],
     [ "SolutionKey< KeyType >", "interfaceannis_1_1sqlgen_1_1SolutionKey_3_01KeyType_01_4.html", "interfaceannis_1_1sqlgen_1_1SolutionKey_3_01KeyType_01_4" ],
     [ "SolutionSqlGenerator", "classannis_1_1sqlgen_1_1SolutionSqlGenerator.html", "classannis_1_1sqlgen_1_1SolutionSqlGenerator" ],
     [ "SqlConstraints", "classannis_1_1sqlgen_1_1SqlConstraints.html", "classannis_1_1sqlgen_1_1SqlConstraints" ],
@@ -56,7 +57,6 @@ var namespaceannis_1_1sqlgen =
     [ "SubQueryCorpusSelectionStrategy", "classannis_1_1sqlgen_1_1SubQueryCorpusSelectionStrategy.html", "classannis_1_1sqlgen_1_1SubQueryCorpusSelectionStrategy" ],
     [ "TableAccessStrategy", "classannis_1_1sqlgen_1_1TableAccessStrategy.html", "classannis_1_1sqlgen_1_1TableAccessStrategy" ],
     [ "TableAccessStrategyFactory", "classannis_1_1sqlgen_1_1TableAccessStrategyFactory.html", "classannis_1_1sqlgen_1_1TableAccessStrategyFactory" ],
-    [ "TableJoinsInWhereClauseGenerator", "classannis_1_1sqlgen_1_1TableJoinsInWhereClauseGenerator.html", "classannis_1_1sqlgen_1_1TableJoinsInWhereClauseGenerator" ],
     [ "WhereClauseSqlGenerator< T >", "interfaceannis_1_1sqlgen_1_1WhereClauseSqlGenerator_3_01T_01_4.html", "interfaceannis_1_1sqlgen_1_1WhereClauseSqlGenerator_3_01T_01_4" ],
     [ "WithClauseSqlGenerator< T >", "interfaceannis_1_1sqlgen_1_1WithClauseSqlGenerator_3_01T_01_4.html", "interfaceannis_1_1sqlgen_1_1WithClauseSqlGenerator_3_01T_01_4" ]
 ];

@@ -24,7 +24,7 @@ var classannis_1_1gui_1_1resultview_1_1SingleResultPanel =
     [ "corpusName", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#aab06040eaed3ec17f1b55b0c58253403", null ],
     [ "documentName", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#a70ff6a2878eb62f2af4eafc72ce25eac", null ],
     [ "HIDE_KWIC", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#ad1a68fe0246178edd5a6f41eb6deaed9", null ],
-    [ "ICON_RESOURCE", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#a34e3006fa166aca7510feac150e90509", null ],
+    [ "ICON_RESOURCE", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#aea28e005771248c24fcea18963a5705a", null ],
     [ "infoBar", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#a1ecaa545388948f333f8d58b9d94ddaa", null ],
     [ "INITIAL_OPEN", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#ae7c95cd3b5adc11e45c31e10a70a6a68", null ],
     [ "instanceConfig", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html#aa348774c743c64a2891ea1cda32fcdb3", null ],

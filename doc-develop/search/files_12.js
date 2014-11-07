@@ -14,6 +14,7 @@ var searchData=
   ['searchui_2ejava',['SearchUI.java',['../SearchUI_8java.html',1,'']]],
   ['segmentationlist_2ejava',['SegmentationList.java',['../SegmentationList_8java.html',1,'']]],
   ['selectclausesqlgenerator_2ejava',['SelectClauseSqlGenerator.java',['../SelectClauseSqlGenerator_8java.html',1,'']]],
+  ['selectedfactsfromclausegenerator_2ejava',['SelectedFactsFromClauseGenerator.java',['../SelectedFactsFromClauseGenerator_8java.html',1,'']]],
   ['semanticvalidator_2ejava',['SemanticValidator.java',['../SemanticValidator_8java.html',1,'']]],
   ['sensitivecombobox_2ejava',['SensitiveComboBox.java',['../SensitiveComboBox_8java.html',1,'']]],
   ['servicequeryexception_2ejava',['ServiceQueryException.java',['../ServiceQueryException_8java.html',1,'']]],
@@ -38,6 +39,7 @@ var searchData=
   ['sqlgenerator_2ejava',['SqlGenerator.java',['../SqlGenerator_8java.html',1,'']]],
   ['sqlgeneratorandextractor_2ejava',['SqlGeneratorAndExtractor.java',['../SqlGeneratorAndExtractor_8java.html',1,'']]],
   ['sqlsessionmodifier_2ejava',['SqlSessionModifier.java',['../SqlSessionModifier_8java.html',1,'']]],
+  ['statementcontroller_2ejava',['StatementController.java',['../StatementController_8java.html',1,'']]],
   ['subcorpusconstraintwhereclause_2ejava',['SubcorpusConstraintWhereClause.java',['../SubcorpusConstraintWhereClause_8java.html',1,'']]],
   ['subgraphfilter_2ejava',['SubgraphFilter.java',['../SubgraphFilter_8java.html',1,'']]],
   ['subquerycorpusselectionstrategy_2ejava',['SubQueryCorpusSelectionStrategy.java',['../SubQueryCorpusSelectionStrategy_8java.html',1,'']]]

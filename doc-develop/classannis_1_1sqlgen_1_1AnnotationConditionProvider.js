@@ -1,7 +1,7 @@
 var classannis_1_1sqlgen_1_1AnnotationConditionProvider =
 [
-    [ "addAnnotationConditions", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#a0f1d5a47c3a12d3807adecd3adc6808d", null ],
-    [ "addEqualValueConditions", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#a58845262f20a92637e92df47b7bf2840", null ],
+    [ "addAnnotationConditions", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#abb1640292e6891e7c3dc252f2090c43b", null ],
+    [ "addEqualValueConditions", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#ad1b7230d3d44636fb19fd27a06662c38", null ],
     [ "getNodeAnnoNamespaceSQL", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#ac7d63b4d3c10a62e9011fd87a968bf24", null ],
     [ "getNodeAnnoNameSQL", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#a4aa5ec1d06648679a24a5717367bdcc1", null ],
     [ "haveSameNodeAnnotationDefinitions", "classannis_1_1sqlgen_1_1AnnotationConditionProvider.html#a2024901e3959073821b00b5455f6cac2", null ],

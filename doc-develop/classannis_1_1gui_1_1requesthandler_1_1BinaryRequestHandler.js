@@ -7,5 +7,6 @@ var classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler =
     [ "sendResponse", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#a5af5e37ede885a5f2ae99fe5510c70d8", null ],
     [ "writeFromServiceToClient", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#ae1119f7b3b176e60696aa379d98b29fd", null ],
     [ "BUFFER_SIZE", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#a5426df3f3812a9f6dc8f7fb4f2a5a888", null ],
-    [ "log", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#a8391122da8cad1f1cf334a052f3e1e21", null ]
+    [ "log", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#a8391122da8cad1f1cf334a052f3e1e21", null ],
+    [ "urlPathEscape", "classannis_1_1gui_1_1requesthandler_1_1BinaryRequestHandler.html#ac2781d1ea43bf5f926989fc367102cab", null ]
 ];

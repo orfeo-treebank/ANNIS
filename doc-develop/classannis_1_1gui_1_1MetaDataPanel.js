@@ -20,5 +20,6 @@ var classannis_1_1gui_1_1MetaDataPanel =
     [ "lastSelectedItem", "classannis_1_1gui_1_1MetaDataPanel.html#a538a93a9ea97f42c42e15b690921b248", null ],
     [ "layout", "classannis_1_1gui_1_1MetaDataPanel.html#a6ab4c5786064430c0cfa40a01f4ec30b", null ],
     [ "log", "classannis_1_1gui_1_1MetaDataPanel.html#a98cfb30201ff6d7c0e4023aca6c7195d", null ],
-    [ "toplevelCorpusName", "classannis_1_1gui_1_1MetaDataPanel.html#a7116ed83592c5be57be1709762c0a54f", null ]
+    [ "toplevelCorpusName", "classannis_1_1gui_1_1MetaDataPanel.html#a7116ed83592c5be57be1709762c0a54f", null ],
+    [ "urlPathEscape", "classannis_1_1gui_1_1MetaDataPanel.html#aefadb5ecfb8f01b5a396e5e0dae5c58d", null ]
 ];

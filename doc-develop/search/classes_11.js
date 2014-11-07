@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['range',['Range',['../classannis_1_1model_1_1AnnisNode_1_1Range.html',1,'annis::model::AnnisNode']]],
   ['range',['Range',['../classannis_1_1model_1_1QueryNode_1_1Range.html',1,'annis::model::QueryNode']]],
   ['rangedjoin',['RangedJoin',['../classannis_1_1sqlgen_1_1model_1_1RangedJoin.html',1,'annis::sqlgen::model']]],
   ['rankid',['RankID',['../classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1RankID.html',1,'annis::sqlgen::SaltAnnotateExtractor']]],
@@ -17,7 +16,6 @@ var searchData=
   ['relannisnodefeature',['RelannisNodeFeature',['../classannis_1_1model_1_1RelannisNodeFeature.html',1,'annis::model']]],
   ['relation',['Relation',['../classannis_1_1gui_1_1flatquerybuilder_1_1FlatQueryBuilder_1_1Relation.html',1,'annis::gui::flatquerybuilder::FlatQueryBuilder']]],
   ['relationtype',['RelationType',['../enumannis_1_1gui_1_1flatquerybuilder_1_1FlatQueryBuilder_1_1RelationType.html',1,'annis::gui::flatquerybuilder::FlatQueryBuilder']]],
-  ['remoteuserrequesthandler',['RemoteUserRequestHandler',['../classannis_1_1libgui_1_1AnnisBaseUI_1_1RemoteUserRequestHandler.html',1,'annis::libgui::AnnisBaseUI']]],
   ['removeindexelement',['RemoveIndexElement',['../classannis_1_1dao_1_1ResolverDaoHelper_1_1RemoveIndexElement.html',1,'annis::dao::ResolverDaoHelper']]],
   ['reportbugwindow',['ReportBugWindow',['../classannis_1_1gui_1_1ReportBugWindow.html',1,'annis::gui']]],
   ['reportformlayout',['ReportFormLayout',['../classannis_1_1gui_1_1ReportBugWindow_1_1ReportFormLayout.html',1,'annis::gui::ReportBugWindow']]],
@@ -36,7 +34,6 @@ var searchData=
   ['resultsettypediterator_3c_20t_20_3e',['ResultSetTypedIterator&lt; T &gt;',['../classannis_1_1sqlgen_1_1ResultSetTypedIterator_3_01T_01_4.html',1,'annis::sqlgen']]],
   ['resultviewpanel',['ResultViewPanel',['../classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html',1,'annis::gui::resultview']]],
   ['rightalignment',['RightAlignment',['../classannis_1_1sqlgen_1_1model_1_1RightAlignment.html',1,'annis::sqlgen::model']]],
-  ['rightdominance',['RightDominance',['../classannis_1_1sqlgen_1_1model_1_1RightDominance.html',1,'annis::sqlgen::model']]],
   ['rightoverlap',['RightOverlap',['../classannis_1_1sqlgen_1_1model_1_1RightOverlap.html',1,'annis::sqlgen::model']]],
   ['row',['Row',['../classannis_1_1gui_1_1widgets_1_1grid_1_1Row.html',1,'annis::gui::widgets::grid']]],
   ['rst',['RST',['../classannis_1_1visualizers_1_1component_1_1rst_1_1RST.html',1,'annis::visualizers::component::rst']]],

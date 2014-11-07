@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['x',['x',['../classannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend_3_01T_01extends_01GraphicsItem_01_4_1_1Alignment.html#a5f73a3ef1c063f88f987a7a9d578e847',1,'annis.visualizers.component.tree.GraphicsBackend&lt; T extends GraphicsItem &gt;.Alignment.x()'],['../classannis_1_1visualizers_1_1iframe_1_1dependency_1_1Vector2.html#a8ac2f5ccddd327cda64efeba27b27ea3',1,'annis.visualizers.iframe.dependency.Vector2.x()']]],
-  ['xmlparserpool',['xmlParserPool',['../classannis_1_1provider_1_1SaltProjectProvider.html#ab767f5b8701ddb11bc2d537c981efbd4',1,'annis::provider::SaltProjectProvider']]],
-  ['xpadding',['xPadding',['../classannis_1_1visualizers_1_1component_1_1tree_1_1Shape_1_1AbstractShape.html#adea2068b48a8c944c08987a3f3bd18d0',1,'annis::visualizers::component::tree::Shape::AbstractShape']]]
+  ['y',['y',['../classannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend_3_01T_01extends_01GraphicsItem_01_4_1_1Alignment.html#a89c0aeff915571719e2954848d4820b7',1,'annis.visualizers.component.tree.GraphicsBackend&lt; T extends GraphicsItem &gt;.Alignment.y()'],['../classannis_1_1visualizers_1_1iframe_1_1dependency_1_1Vector2.html#a89fbacda5f6a0204dad1a5a4b1a134c1',1,'annis.visualizers.iframe.dependency.Vector2.y()']]],
+  ['yellowgreen',['YellowGreen',['../enumannis_1_1libgui_1_1MatchedNodeColors.html#a738f92d50f96e1d412cbd3a23aa724bd',1,'annis::libgui::MatchedNodeColors']]],
+  ['ypadding',['yPadding',['../classannis_1_1visualizers_1_1component_1_1tree_1_1Shape_1_1AbstractShape.html#a50e49b9d654e6a2f94095133d6931aa9',1,'annis::visualizers::component::tree::Shape::AbstractShape']]]
 ];

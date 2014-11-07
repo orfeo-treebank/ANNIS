@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['navigateablesinglepage',['NavigateableSinglePage',['../classannis_1_1gui_1_1components_1_1NavigateableSinglePage.html',1,'annis::gui::components']]],
   ['near',['Near',['../classannis_1_1sqlgen_1_1model_1_1Near.html',1,'annis::sqlgen::model']]],
   ['newpasswordwindow',['NewPasswordWindow',['../classannis_1_1gui_1_1admin_1_1NewPasswordWindow.html',1,'annis::gui::admin']]],
   ['nodecomparator',['NodeComparator',['../classannis_1_1model_1_1AnnotationGraph_1_1NodeComparator.html',1,'annis::model::AnnotationGraph']]],
