@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['making_20a_20new_20annis_20release',['Making a new ANNIS release',['../dev-release.html',1,'dev']]]
+  ['links_20to_20queries',['Links to queries',['../dev-querybyurl.html',1,'dev']]]
 ];

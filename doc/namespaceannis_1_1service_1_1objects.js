@@ -9,18 +9,14 @@ var namespaceannis_1_1service_1_1objects =
     [ "AnnisTokenImpl", "classannis_1_1service_1_1objects_1_1AnnisTokenImpl.html", "classannis_1_1service_1_1objects_1_1AnnisTokenImpl" ],
     [ "CorpusConfig", "classannis_1_1service_1_1objects_1_1CorpusConfig.html", "classannis_1_1service_1_1objects_1_1CorpusConfig" ],
     [ "CorpusConfigMap", "classannis_1_1service_1_1objects_1_1CorpusConfigMap.html", "classannis_1_1service_1_1objects_1_1CorpusConfigMap" ],
-    [ "DocumentBrowserConfig", "classannis_1_1service_1_1objects_1_1DocumentBrowserConfig.html", "classannis_1_1service_1_1objects_1_1DocumentBrowserConfig" ],
     [ "FrequencyTable", "classannis_1_1service_1_1objects_1_1FrequencyTable.html", "classannis_1_1service_1_1objects_1_1FrequencyTable" ],
     [ "FrequencyTableEntry", "classannis_1_1service_1_1objects_1_1FrequencyTableEntry.html", "classannis_1_1service_1_1objects_1_1FrequencyTableEntry" ],
     [ "FrequencyTableEntryType", "enumannis_1_1service_1_1objects_1_1FrequencyTableEntryType.html", "enumannis_1_1service_1_1objects_1_1FrequencyTableEntryType" ],
     [ "ImportJob", "classannis_1_1service_1_1objects_1_1ImportJob.html", "classannis_1_1service_1_1objects_1_1ImportJob" ],
-    [ "Match", "classannis_1_1service_1_1objects_1_1Match.html", "classannis_1_1service_1_1objects_1_1Match" ],
     [ "MatchAndDocumentCount", "classannis_1_1service_1_1objects_1_1MatchAndDocumentCount.html", "classannis_1_1service_1_1objects_1_1MatchAndDocumentCount" ],
-    [ "MatchGroup", "classannis_1_1service_1_1objects_1_1MatchGroup.html", "classannis_1_1service_1_1objects_1_1MatchGroup" ],
     [ "MetaDataColumn", "classannis_1_1service_1_1objects_1_1MetaDataColumn.html", "classannis_1_1service_1_1objects_1_1MetaDataColumn" ],
     [ "OrderBy", "classannis_1_1service_1_1objects_1_1OrderBy.html", "classannis_1_1service_1_1objects_1_1OrderBy" ],
     [ "RawTextWrapper", "classannis_1_1service_1_1objects_1_1RawTextWrapper.html", "classannis_1_1service_1_1objects_1_1RawTextWrapper" ],
     [ "SegmentationList", "classannis_1_1service_1_1objects_1_1SegmentationList.html", "classannis_1_1service_1_1objects_1_1SegmentationList" ],
-    [ "SubgraphFilter", "enumannis_1_1service_1_1objects_1_1SubgraphFilter.html", "enumannis_1_1service_1_1objects_1_1SubgraphFilter" ],
     [ "Visualizer", "classannis_1_1service_1_1objects_1_1Visualizer.html", "classannis_1_1service_1_1objects_1_1Visualizer" ]
 ];

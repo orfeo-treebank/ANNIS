@@ -28,7 +28,7 @@ var classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent =
     [ "setTooltip", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#abbe9e932694ce83c6c16c1327ed38dce", null ],
     [ "setValue", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a71336d054900ebfc020903d353cfb210", null ],
     [ "toString", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a0c7666b9af559d45d68310a9163e4a08", null ],
-    [ "coveredIDs", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a1a3c0e9e553a7a79c7683662e7dc5423", null ],
+    [ "coveredIDs", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a3f0d97b8b0c01b2c740fb7b9c23643a4", null ],
     [ "endTime", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#af85de3837be0a37246bb02c95514d428", null ],
     [ "gap", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#ac849796f0dfc3a044931896011d6d3a0", null ],
     [ "id", "classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a05bd530edb0bf8164c9f30f8bf87c473", null ],

@@ -1,5 +1,6 @@
 var namespaceannis =
 [
+    [ "adapter", "namespaceannis_1_1adapter.html", "namespaceannis_1_1adapter" ],
     [ "administration", "namespaceannis_1_1administration.html", "namespaceannis_1_1administration" ],
     [ "corpuspathsearch", "namespaceannis_1_1corpuspathsearch.html", "namespaceannis_1_1corpuspathsearch" ],
     [ "dao", "namespaceannis_1_1dao.html", "namespaceannis_1_1dao" ],
@@ -17,15 +18,14 @@ var namespaceannis =
     [ "sqlgen", "namespaceannis_1_1sqlgen.html", "namespaceannis_1_1sqlgen" ],
     [ "utils", "namespaceannis_1_1utils.html", "namespaceannis_1_1utils" ],
     [ "visualizers", "namespaceannis_1_1visualizers.html", "namespaceannis_1_1visualizers" ],
-    [ "CommonHelper", "classannis_1_1CommonHelper.html", "classannis_1_1CommonHelper" ],
-    [ "CoveredTextsCalculator", "classannis_1_1CoveredTextsCalculator.html", "classannis_1_1CoveredTextsCalculator" ],
     [ "AnnisBaseRunner", "classannis_1_1AnnisBaseRunner.html", "classannis_1_1AnnisBaseRunner" ],
     [ "AnnisRunner", "classannis_1_1AnnisRunner.html", "classannis_1_1AnnisRunner" ],
-    [ "AnnisRunnerException", "classannis_1_1AnnisRunnerException.html", "classannis_1_1AnnisRunnerException" ],
     [ "AnnisXmlContextHelper", "classannis_1_1AnnisXmlContextHelper.html", "classannis_1_1AnnisXmlContextHelper" ],
+    [ "CommonHelper", "classannis_1_1CommonHelper.html", "classannis_1_1CommonHelper" ],
+    [ "CoveredTextsCalculator", "classannis_1_1CoveredTextsCalculator.html", "classannis_1_1CoveredTextsCalculator" ],
     [ "CSVHelper", "classannis_1_1CSVHelper.html", "classannis_1_1CSVHelper" ],
-    [ "FindHelper", "classannis_1_1FindHelper.html", null ],
+    [ "GraphHelper", "classannis_1_1GraphHelper.html", "classannis_1_1GraphHelper" ],
     [ "TableFormatter", "classannis_1_1TableFormatter.html", "classannis_1_1TableFormatter" ],
-    [ "UsageException", "classannis_1_1UsageException.html", "classannis_1_1UsageException" ],
+    [ "VersionInfo", "classannis_1_1VersionInfo.html", "classannis_1_1VersionInfo" ],
     [ "WekaHelper", "classannis_1_1WekaHelper.html", "classannis_1_1WekaHelper" ]
 ];

@@ -2,7 +2,7 @@ var classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1Def
 [
     [ "DefaultStyler", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a0b274d52fd6a0cc23a59160d460a785d", null ],
     [ "getEdgeColor", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a622b0ec9254bfa6595d15aed23fe94b6", null ],
-    [ "getFont", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a78b29d733a42299b39409e62fc643b81", null ],
+    [ "getFont", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#ab5add7ae783d5faba05cb3d551a5bf66", null ],
     [ "getFont", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a8a5bb3d10dc6a093e516066e9338b56d", null ],
     [ "getHeightStep", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a1fde82afef625e6f89c76f0aed30beaf", null ],
     [ "getLabelPadding", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#abd9494e365fd35bafac167be6b9ed60b", null ],

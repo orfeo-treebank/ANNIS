@@ -4,6 +4,7 @@ var classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer =
     [ "TComponent", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TComponent.html", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TComponent" ],
     [ "TComponenttype", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TComponenttype.html", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TComponenttype" ],
     [ "TReferent", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TReferent.html", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TReferent" ],
+    [ "addEmptyLines", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer.html#af558ecf1d6b586b80a054f32e4e11131", null ],
     [ "componentNameForRelation", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer.html#a66074b4bf1b596e2dbee40c24c681739", null ],
     [ "connectionOf", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer.html#afeb06882fad52a1733220a7792ca413d", null ],
     [ "getAllTokens", "classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer.html#a1d34409f11b3acafb49cfef9d0a6ccf9", null ],

@@ -6,6 +6,7 @@ var namespaceannis_1_1visualizers_1_1htmlvis =
     [ "HTMLVis", "classannis_1_1visualizers_1_1htmlvis_1_1HTMLVis.html", "classannis_1_1visualizers_1_1htmlvis_1_1HTMLVis" ],
     [ "HTMLVisFull", "classannis_1_1visualizers_1_1htmlvis_1_1HTMLVisFull.html", "classannis_1_1visualizers_1_1htmlvis_1_1HTMLVisFull" ],
     [ "OutputItem", "classannis_1_1visualizers_1_1htmlvis_1_1OutputItem.html", "classannis_1_1visualizers_1_1htmlvis_1_1OutputItem" ],
+    [ "PseudoRegionMatcher", "classannis_1_1visualizers_1_1htmlvis_1_1PseudoRegionMatcher.html", "classannis_1_1visualizers_1_1htmlvis_1_1PseudoRegionMatcher" ],
     [ "SpanHTMLOutputter", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter.html", "classannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter" ],
     [ "SpanMatcher", "interfaceannis_1_1visualizers_1_1htmlvis_1_1SpanMatcher.html", "interfaceannis_1_1visualizers_1_1htmlvis_1_1SpanMatcher" ],
     [ "TokenMatcher", "classannis_1_1visualizers_1_1htmlvis_1_1TokenMatcher.html", "classannis_1_1visualizers_1_1htmlvis_1_1TokenMatcher" ],

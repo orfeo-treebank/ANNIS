@@ -1,7 +1,7 @@
 var searchData=
 [
   ['fileaccessexception_2ejava',['FileAccessException.java',['../FileAccessException_8java.html',1,'']]],
-  ['findhelper_2ejava',['FindHelper.java',['../FindHelper_8java.html',1,'']]],
+  ['filteringvisualizerplugin_2ejava',['FilteringVisualizerPlugin.java',['../FilteringVisualizerPlugin_8java.html',1,'']]],
   ['findsqlgenerator_2ejava',['FindSqlGenerator.java',['../FindSqlGenerator_8java.html',1,'']]],
   ['flatquerybuilder_2ejava',['FlatQueryBuilder.java',['../FlatQueryBuilder_8java.html',1,'']]],
   ['flatquerybuilderplugin_2ejava',['FlatQueryBuilderPlugin.java',['../FlatQueryBuilderPlugin_8java.html',1,'']]],

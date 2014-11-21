@@ -1,12 +1,11 @@
 var interfaceannis_1_1dao_1_1AnnisDao =
 [
-    [ "annotate", "interfaceannis_1_1dao_1_1AnnisDao.html#a5b0869bd443d7807042722f718ba0675", null ],
     [ "checkDatabaseVersion", "interfaceannis_1_1dao_1_1AnnisDao.html#ab1342ed279fa20c842797971535f0bb3", null ],
     [ "count", "interfaceannis_1_1dao_1_1AnnisDao.html#a9add5bc0d016bec65aa09b798733ba2a", null ],
     [ "countMatchesAndDocuments", "interfaceannis_1_1dao_1_1AnnisDao.html#a5b0d942c26ef4e5cfa953e192d010ae5", null ],
-    [ "executeQueryFunction", "interfaceannis_1_1dao_1_1AnnisDao.html#aa4cadf79783f2f48aa967b1ef9f56c1f", null ],
-    [ "executeQueryFunction", "interfaceannis_1_1dao_1_1AnnisDao.html#ada74027fcadf8a4f90cda82e91bb66ea", null ],
-    [ "explain", "interfaceannis_1_1dao_1_1AnnisDao.html#a1c529623cd34e54595c96b0348515b3e", null ],
+    [ "executeQueryFunction", "interfaceannis_1_1dao_1_1AnnisDao.html#a997fc302f6bfab18b2a1ad8efc68e9cd", null ],
+    [ "executeQueryFunction", "interfaceannis_1_1dao_1_1AnnisDao.html#a39a91ae0814314f16143f4607a480404", null ],
+    [ "explain", "interfaceannis_1_1dao_1_1AnnisDao.html#a088b699c54ba03b427e4fd7d4f78cb6a", null ],
     [ "find", "interfaceannis_1_1dao_1_1AnnisDao.html#a26e1e6111f0f482f512749ef59ac28dd", null ],
     [ "find", "interfaceannis_1_1dao_1_1AnnisDao.html#a507f1c0fe9b84b0f01d6973b87dae031", null ],
     [ "frequency", "interfaceannis_1_1dao_1_1AnnisDao.html#ad9112c4a4dc240469e27a5e5b6092c54", null ],
@@ -41,7 +40,7 @@ var interfaceannis_1_1dao_1_1AnnisDao =
     [ "mapCorpusNameToId", "interfaceannis_1_1dao_1_1AnnisDao.html#aba1957411ba8bba23dada356f588d205", null ],
     [ "matrix", "interfaceannis_1_1dao_1_1AnnisDao.html#a064a97b99c988639a3d16799884e7635", null ],
     [ "parseAQL", "interfaceannis_1_1dao_1_1AnnisDao.html#a4475558799e3742c66880315eed7e906", null ],
-    [ "retrieveAnnotationGraph", "interfaceannis_1_1dao_1_1AnnisDao.html#a87285c8fcf53222506e4fd69f39e6a82", null ],
+    [ "retrieveAnnotationGraph", "interfaceannis_1_1dao_1_1AnnisDao.html#aac66c6c19e71e298531e33759cd9d1ea", null ],
     [ "setCorpusConfiguration", "interfaceannis_1_1dao_1_1AnnisDao.html#a959c99ec11da0e4c949b436196987d50", null ],
     [ "setCorpusConfiguration", "interfaceannis_1_1dao_1_1AnnisDao.html#a5dac6381caadb11184e50c85fd4eff7c", null ],
     [ "setTimeout", "interfaceannis_1_1dao_1_1AnnisDao.html#a3426b36abc3bc0815480ece15130d0cb", null ]

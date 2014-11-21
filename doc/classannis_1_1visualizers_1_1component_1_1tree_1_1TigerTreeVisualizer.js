@@ -16,6 +16,8 @@ var classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer =
     [ "labeler", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#a41c6964b638bf46773f43a13cb7c835d", null ],
     [ "SIDE_MARGIN", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#a45dfa2ef0144c4f1a00661f232b7c9a2", null ],
     [ "styler", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#ad7a1e6f887239d2dfe70cdbdf05c5e6d", null ],
+    [ "TERMINAL_NAME_KEY", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#ae34fff0e1ee904f5e87b727427ab014b", null ],
+    [ "TERMINAL_NS_KEY", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#a4492ade8a045c8e5ece1c4a33a378581", null ],
     [ "TOP_MARGIN", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#abaca637941950907064eccde0137af32", null ],
     [ "TREE_DISTANCE", "classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer.html#acda47ac6f1ea86628a2fa8a4657cb31b", null ]
 ];

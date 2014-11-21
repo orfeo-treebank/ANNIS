@@ -3,7 +3,6 @@ var classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel =
     [ "ActionType", "enumannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1ActionType.html", "enumannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1ActionType" ],
     [ "AddRemoveAction", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1AddRemoveAction.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1AddRemoveAction" ],
     [ "AnnisCorpusListType", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1AnnisCorpusListType.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1AnnisCorpusListType" ],
-    [ "CorpusSorter", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusSorter.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusSorter" ],
     [ "CorpusTableChangedListener", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener" ],
     [ "DocLinkGenerator", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1DocLinkGenerator.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1DocLinkGenerator" ],
     [ "InfoGenerator", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1InfoGenerator.html", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1InfoGenerator" ],
@@ -31,12 +30,12 @@ var classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel =
     [ "cbSelection", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ab1db798ba0d549db9fa2213a5087abc0", null ],
     [ "controller", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ada3025bfe6f06c91f333ac91f97d3d77", null ],
     [ "corpusContainer", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#a5794084f2f903cd2655a58176cdc9983", null ],
-    [ "DOC_ICON", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ac57eb5904670e7226f6aee91912579ba", null ],
-    [ "INFO_ICON", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#a74ce0cfc435d76d392b21a718b488659", null ],
+    [ "DOC_ICON", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#adf134db950f752e82de39b4886d4b1dd", null ],
+    [ "INFO_ICON", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ab4bdf4e84ca23a4209968383e59f527e", null ],
     [ "instanceConfig", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ac6bae31a0294a78c8ef5cf263aea2cf1", null ],
     [ "log", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ab55f362e7f3dceb0c993b096cda5279e", null ],
     [ "tblCorpora", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#a07beed2aa8c3fc06c2424fe04b077414", null ],
     [ "txtFilter", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ae054e21a4cc6df58a2192370d6639194", null ],
     [ "ui", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#a546c0feee72eedd07ed85f5c00cc23eb", null ],
-    [ "userConfig", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ae21e308e965a8e84216ef1df718aba81", null ]
+    [ "userConfig", "classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#ae3a2b25885e13d50979163438b4364d2", null ]
 ];

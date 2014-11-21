@@ -1,8 +1,8 @@
 var classannis_1_1gui_1_1ExampleQueriesPanel =
 [
     [ "ExampleQueryExecuter", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ExampleQueryExecuter.html", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ExampleQueryExecuter" ],
+    [ "QueryColumn", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1QueryColumn.html", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1QueryColumn" ],
     [ "ShowCorpusBrowser", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ShowCorpusBrowser.html", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ShowCorpusBrowser" ],
-    [ "ShowResultColumn", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ShowResultColumn.html", "classannis_1_1gui_1_1ExampleQueriesPanel_1_1ShowResultColumn" ],
     [ "ExampleQueriesPanel", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a6da66b47bace8336231a75bce3b8cb77", null ],
     [ "addItems", "classannis_1_1gui_1_1ExampleQueriesPanel.html#ac18b5a2b68747f758c3fb9f173666733", null ],
     [ "attach", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a7a6a6effbd83d84608a457f29b6af6d8", null ],
@@ -18,7 +18,7 @@ var classannis_1_1gui_1_1ExampleQueriesPanel =
     [ "examples", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a4986a8ec3f3ac441f8e274e3fe17df40", null ],
     [ "log", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a009fd6eb3f51e7f62e6d9cec060aec35", null ],
     [ "parentTab", "classannis_1_1gui_1_1ExampleQueriesPanel.html#ac6da4c994feff107419205c2181bf8f1", null ],
-    [ "SEARCH_ICON", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a83a206d9ce0b5bb3c5f6d79801133e06", null ],
+    [ "SEARCH_ICON", "classannis_1_1gui_1_1ExampleQueriesPanel.html#ab85a7dcc7e150c654b1b20fd39d904f3", null ],
     [ "tab", "classannis_1_1gui_1_1ExampleQueriesPanel.html#a7b589ae2711623629018e65d3885cfa3", null ],
     [ "ui", "classannis_1_1gui_1_1ExampleQueriesPanel.html#aa0d2aa7c4db097e92c876c406b566cee", null ]
 ];

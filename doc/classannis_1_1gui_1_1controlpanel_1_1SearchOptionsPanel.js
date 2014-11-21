@@ -39,5 +39,6 @@ var classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel =
     [ "NULL_SEGMENTATION_VALUE", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#a8d5964a8bb767601caa26da7bcbea9a9", null ],
     [ "optionsManuallyChanged", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#a75d719f4d66e99e0b40f950a5234a47e", null ],
     [ "PREDEFINED_CONTEXTS", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#aa4cc59dde5bb83f37517b6ab0b04555f", null ],
-    [ "PREDEFINED_PAGE_SIZES", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#ac0c9bb939a58ee0ac44b9897a88e1287", null ]
+    [ "PREDEFINED_PAGE_SIZES", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#ac0c9bb939a58ee0ac44b9897a88e1287", null ],
+    [ "urlPathEscape", "classannis_1_1gui_1_1controlpanel_1_1SearchOptionsPanel.html#a83a9c73aac14f566d540e5d5d9d024a4", null ]
 ];

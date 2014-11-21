@@ -18,8 +18,7 @@ var NAVTREE =
       [ "Class Members", "functions.html", [
         [ "All", "functions.html", "functions_dup" ],
         [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ],
-        [ "Enumerator", "functions_eval.html", null ]
+        [ "Variables", "functions_vars.html", "functions_vars" ]
       ] ]
     ] ],
     [ "Files", null, [
@@ -30,37 +29,33 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"ANNISRolePermissionResolver_8java.html",
-"NotEqualValue_8java.html",
-"classannis_1_1AnnisRunner.html#a62173ffeed10bbf21c99648cb4533db5",
-"classannis_1_1administration_1_1DefaultAdministrationDao.html#a4bd3c68471626e0199945f98e4d928e0",
-"classannis_1_1dao_1_1SpringAnnisDao.html#ab6cca98c4e6eb6d07aefc55e33f886f6",
-"classannis_1_1gui_1_1ExportPanel.html#aaaaf2670b2c9184fb2acdb482b03836a",
-"classannis_1_1gui_1_1beans_1_1CorpusBrowserEntry.html#a3eff4683cea3fa1774aecf8af1654cb8",
-"classannis_1_1gui_1_1controlpanel_1_1QueryPanel.html#afa4396e3c1d23a702e6ec00b74617e2c",
-"classannis_1_1gui_1_1flatquerybuilder_1_1FlatQueryBuilder.html#aa2af8127fe3e9132d1e9d3abe18139c1",
-"classannis_1_1gui_1_1model_1_1PagedResultQuery.html#a5ab172aa589d9f03feec2a16800774ff",
-"classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a6d80108b7cd08bf3c3205bf6affdcaa4",
-"classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#ac849796f0dfc3a044931896011d6d3a0",
-"classannis_1_1libgui_1_1InstanceConfig.html#af5c2fecf1ecc727fb68b5850730e6300",
-"classannis_1_1model_1_1Annotation.html#aac12bdf248bfd85015c88f822ae22d5c",
-"classannis_1_1model_1_1RelannisNodeFeature.html#a8af493fe22fda6e7c96d944a5c387b02",
-"classannis_1_1resolver_1_1ResolverEntry.html#a51d59d3aa4005b03805c195c66cc73f7",
-"classannis_1_1service_1_1objects_1_1AnnisCorpus.html#a285f19db63bff18c226a564656162a00",
-"classannis_1_1sqlgen_1_1AbstractSolutionMatchInFromClauseSqlGenerator_3_01T_01_4.html#aa8a6870d7f937e0ea1a5673c3db0bbce",
-"classannis_1_1sqlgen_1_1FrequencySqlGenerator.html#a6c9ce1316bad604d60289bcb3e402153",
-"classannis_1_1sqlgen_1_1annopool_1_1ApAnnotateSqlGenerator_3_01T_01_4.html#afbd16a68f6d45ea0dcd8485ae7eaeb4a",
-"classannis_1_1visualizers_1_1component_1_1grid_1_1EventExtractor.html#a04a7b8712af58f88e48e5dc745b23cce",
-"classannis_1_1visualizers_1_1component_1_1tree_1_1LayoutOptions.html#ae020bb7b8dffe31c9b9372155f9c9ad9",
-"classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer.html#a15c1ac233acaa3a6dfdf4e78bf7f0341",
-"classde_1_1hu__berlin_1_1german_1_1korpling_1_1annis_1_1kickstarter_1_1ListDialog.html",
-"functions.html",
-"interfaceannis_1_1service_1_1MetadataService.html#a366e31230259b2c2a25a3eed885bb0f4",
-"namespaceannis_1_1visualizers_1_1iframe_1_1dependency.html"
+"ANNISFontIcon_8java.html",
+"MediaControllerImpl_8java.html",
+"classannis_1_1AnnisBaseRunner.html#aa2c5fe095e874236db86dd1c34dbcdd5",
+"classannis_1_1administration_1_1CorpusAdministration.html#ac7e49703ff239e6793e9919ef93f4791",
+"classannis_1_1gui_1_1ExportPanel.html#a120804a0936b6994d805b10295edc9c6",
+"classannis_1_1gui_1_1admin_1_1ImportPanel.html#a5ca5647f971d9d49be33431337557e88",
+"classannis_1_1gui_1_1components_1_1HelpButton_3_01T_01_4.html#a7ec3e75981cfb802bba223b9f4f267d5",
+"classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a8c036b7e96ba76e05e2a0fc7b23d6bc9",
+"classannis_1_1gui_1_1flatquerybuilder_1_1ReducingStringComparator.html#a2ada1242d336d957edf354959af029dc",
+"classannis_1_1gui_1_1querybuilder_1_1NodeWindow.html#a3448afccf1fd74c65d5b626813710eb5",
+"classannis_1_1gui_1_1resultview_1_1SingleResultPanel_1_1MinMax.html",
+"classannis_1_1gui_1_1widgets_1_1gwt_1_1client_1_1ui_1_1VJITWrapper.html#af8e03be7163aa012bd1fd4afadf62eab",
+"classannis_1_1model_1_1Annotation.html#a96c604650ae618588022fc0af8a9ad48",
+"classannis_1_1model_1_1RelannisNodeFeature.html#aff78be022690be41041f9f79eff2d585",
+"classannis_1_1resolver_1_1ResolverEntry.html#ae544b4ca05b273361ef1821703c5be65",
+"classannis_1_1service_1_1objects_1_1FrequencyTable.html#ab323e0883d499f26bcdcae74909f0bc6",
+"classannis_1_1sqlgen_1_1AomAnnotateExtractor_1_1ComponentEntry.html#a27688c1fbb71a7f7e13e202d5f442b0f",
+"classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#a731929094b4ec6e3d5f31c411dc2be08",
+"classannis_1_1sqlgen_1_1model_1_1Precedence.html#a6ff704571cbb3925535c5ef0590941a8",
+"classannis_1_1visualizers_1_1component_1_1pdf_1_1PDFFullVisualizer.html#a4032f472f74e52d72fe03fcf19b5b86b",
+"classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a9663e1c24697b223b77d1a2d5e7f5c0f",
+"classannis_1_1visualizers_1_1iframe_1_1partitur_1_1DetectHoles.html",
+"enumannis_1_1gui_1_1querybuilder_1_1AQLOperator.html#aaf2b38c2c4c07d411f7ecc990d1d0e9c",
+"interfaceannis_1_1dao_1_1AnnisDao.html#a088b699c54ba03b427e4fd7d4f78cb6a",
+"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#a98e2759e164bec61db29f7c81f3dd934"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
 var SYNCONMSG = 'click to disable panel synchronisation';
 var SYNCOFFMSG = 'click to enable panel synchronisation';
 var navTreeSubIndices = new Array();
@@ -85,6 +80,21 @@ function stripPath2(uri)
   return m ? uri.substring(i-6) : s;
 }
 
+function hashValue()
+{
+  return $(location).attr('hash').substring(1).replace(/[^\w\-]/g,'');
+}
+
+function hashUrl()
+{
+  return '#'+hashValue();
+}
+
+function pathName()
+{
+  return $(location).attr('pathname').replace(/[^-A-Za-z0-9+&@#/%?=~_|!:,.;\(\)]/g, '');
+}
+
 function localStorageSupported()
 {
   try {
@@ -107,7 +117,7 @@ function deleteLink()
 {
   if (localStorageSupported()) {
     window.localStorage.setItem('navpath','');
-  } 
+  }
 }
 
 function cachedLink()
@@ -179,11 +189,13 @@ var animationInProgress = false;
 function gotoAnchor(anchor,aname,updateLocation)
 {
   var pos, docContent = $('#doc-content');
-  if (anchor.parent().attr('class')=='memItemLeft' ||
-      anchor.parent().attr('class')=='fieldtype' ||
-      anchor.parent().is(':header')) 
+  var ancParent = $(anchor.parent());
+  if (ancParent.hasClass('memItemLeft') ||
+      ancParent.hasClass('fieldname') ||
+      ancParent.hasClass('fieldtype') ||
+      ancParent.is(':header'))
   {
-    pos = anchor.parent().position().top;
+    pos = ancParent.position().top;
   } else if (anchor.position()) {
     pos = anchor.position().top;
   }
@@ -241,7 +253,7 @@ function newNode(o, po, text, link, childrenData, lastNode)
     a.className = stripPath(link.replace('#',':'));
     if (link.indexOf('#')!=-1) {
       var aname = '#'+link.split('#')[1];
-      var srcPage = stripPath($(location).attr('pathname'));
+      var srcPage = stripPath(pathName());
       var targetPage = stripPath(link.split('#')[0]);
       a.href = srcPage!=targetPage ? url : "javascript:void(0)"; 
       a.onclick = function(){
@@ -335,14 +347,13 @@ function glowEffect(n,duration)
 
 function highlightAnchor()
 {
-  var aname = $(location).attr('hash');
+  var aname = hashUrl();
   var anchor = $(aname);
   if (anchor.parent().attr('class')=='memItemLeft'){
-    var rows = $('.memberdecls tr[class$="'+
-               window.location.hash.substring(1)+'"]');
+    var rows = $('.memberdecls tr[class$="'+hashValue()+'"]');
     glowEffect(rows.children(),300); // member without details
-  } else if (anchor.parents().slice(2).prop('tagName')=='TR') {
-    glowEffect(anchor.parents('div.memitem'),1000); // enum value
+  } else if (anchor.parent().attr('class')=='fieldname'){
+    glowEffect(anchor.parent().parent(),1000); // enum value
   } else if (anchor.parent().attr('class')=='fieldtype'){
     glowEffect(anchor.parent().parent(),1000); // struct field
   } else if (anchor.parent().is(":header")) {
@@ -357,7 +368,7 @@ function selectAndHighlight(hash,n)
 {
   var a;
   if (hash) {
-    var link=stripPath($(location).attr('pathname'))+':'+hash.substring(1);
+    var link=stripPath(pathName())+':'+hash.substring(1);
     a=$('.item a[class$="'+link+'"]');
   }
   if (a && a.length) {
@@ -468,14 +479,13 @@ function navTo(o,root,hash,relpath)
   if (link) {
     var parts = link.split('#');
     root = parts[0];
-    if (parts.length>1) hash = '#'+parts[1];
+    if (parts.length>1) hash = '#'+parts[1].replace(/[^\w\-]/g,'');
     else hash='';
   }
   if (hash.match(/^#l\d+$/)) {
     var anchor=$('a[name='+hash.substring(1)+']');
     glowEffect(anchor.parent(),1000); // line number
     hash=''; // strip line number anchors
-    //root=root.replace(/_source\./,'.'); // source link to doc link
   }
   var url=root+hash;
   var i=-1;
@@ -509,7 +519,7 @@ function toggleSyncButton(relpath)
   if (navSync.hasClass('sync')) {
     navSync.removeClass('sync');
     showSyncOff(navSync,relpath);
-    storeLink(stripPath2($(location).attr('pathname'))+$(location).attr('hash'));
+    storeLink(stripPath2(pathName())+hashUrl());
   } else {
     navSync.addClass('sync');
     showSyncOn(navSync,relpath);
@@ -549,7 +559,7 @@ function initNavTree(toroot,relpath)
   }
 
   $(window).load(function(){
-    navTo(o,toroot,window.location.hash,relpath);
+    navTo(o,toroot,hashUrl(),relpath);
     showRoot();
   });
 
@@ -557,21 +567,20 @@ function initNavTree(toroot,relpath)
      if (window.location.hash && window.location.hash.length>1){
        var a;
        if ($(location).attr('hash')){
-         var clslink=stripPath($(location).attr('pathname'))+':'+
-                               $(location).attr('hash').substring(1);
-         a=$('.item a[class$="'+clslink+'"]');
+         var clslink=stripPath(pathName())+':'+hashValue();
+         a=$('.item a[class$="'+clslink.replace(/</g,'\\3c ')+'"]');
        }
        if (a==null || !$(a).parent().parent().hasClass('selected')){
          $('.item').removeClass('selected');
          $('.item').removeAttr('id');
        }
-       var link=stripPath2($(location).attr('pathname'));
-       navTo(o,link,$(location).attr('hash'),relpath);
+       var link=stripPath2(pathName());
+       navTo(o,link,hashUrl(),relpath);
      } else if (!animationInProgress) {
        $('#doc-content').scrollTop(0);
        $('.item').removeClass('selected');
        $('.item').removeAttr('id');
-       navTo(o,toroot,window.location.hash,relpath);
+       navTo(o,toroot,hashUrl(),relpath);
      }
   })
 }

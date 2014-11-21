@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['leaf',['LEAF',['../enumannis_1_1ql_1_1parser_1_1LogicClause_1_1Operator.html#a36397e8df2fd035be6ccadf5af3f01eb',1,'annis::ql::parser::LogicClause::Operator']]]
+  ['end',['END',['../enumannis_1_1visualizers_1_1htmlvis_1_1PseudoRegionMatcher_1_1PseudoRegion.html#a44f8fb6de600b3493f7e3992b0d74a42',1,'annis::visualizers::htmlvis::PseudoRegionMatcher::PseudoRegion']]]
 ];

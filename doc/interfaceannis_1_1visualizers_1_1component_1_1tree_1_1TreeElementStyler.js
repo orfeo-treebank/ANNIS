@@ -1,7 +1,7 @@
 var interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler =
 [
     [ "getEdgeColor", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#a478363d933e9ecbdb58d2e0934048127", null ],
-    [ "getFont", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#ad3c126c5f3c5f20ee43adb80223c1443", null ],
+    [ "getFont", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#a7dde61fe5f5bc9a980cedc8367ad6274", null ],
     [ "getFont", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#a2f016926c8652932fb6df78cdecb2c54", null ],
     [ "getHeightStep", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#a09f9a1e44a60a28813767c4a38193290", null ],
     [ "getLabelPadding", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html#a2510549415c748e686c6baa67b21a6f3", null ],

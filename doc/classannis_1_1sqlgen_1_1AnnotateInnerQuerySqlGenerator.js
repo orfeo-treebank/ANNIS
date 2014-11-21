@@ -1,7 +1,6 @@
 var classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator =
 [
     [ "appendOrderByClause", "classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator.html#a960e8cdc2a3391dbe0772947b22cb89b", null ],
-    [ "extractData", "classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator.html#a4f0b38721253af6d09a826b9a4c29eea", null ],
     [ "getSolutionKey", "classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator.html#a88392e2c57d3192114d0f918ca6a12ee", null ],
     [ "isSortSolutions", "classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator.html#a0e9741b8f35c68723e4087efbfa5a7bf", null ],
     [ "orderByClause", "classannis_1_1sqlgen_1_1AnnotateInnerQuerySqlGenerator.html#ae58210713e925ee7764226b31969d94d", null ],

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['regex',['REGEX',['../enumannis_1_1gui_1_1flatquerybuilder_1_1ValueField_1_1ValueMode.html#a41bdf222de9e1f80e8bef865a742c335',1,'annis::gui::flatquerybuilder::ValueField::ValueMode']]]
+  ['leaf',['LEAF',['../enumannis_1_1ql_1_1parser_1_1LogicClause_1_1Operator.html#a36397e8df2fd035be6ccadf5af3f01eb',1,'annis::ql::parser::LogicClause::Operator']]]
 ];

@@ -11,6 +11,7 @@ var classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator =
     [ "addLeftAlignmentConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#a31628186c5de4caa04be84fd3b3013e2", null ],
     [ "addLeftDominanceConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#ab3c298f903b3c755b9dc5db58f3eb723", null ],
     [ "addLeftOverlapConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#a2147de6889a92b7de71968af42281891", null ],
+    [ "addNearConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#a9a36ec36bc392ef8c31249499aa72a48", null ],
     [ "addNodeArityConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#a215a3312d12356580b4dd4e6de6c20eb", null ],
     [ "addNodeNameCondition", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#ad4620d47a407b17e3c7cbfbba6555454", null ],
     [ "addNodeNamespaceConditions", "classannis_1_1sqlgen_1_1AbstractWhereClauseGenerator.html#aa7cb8bab75afd67768efd95e8949b331", null ],

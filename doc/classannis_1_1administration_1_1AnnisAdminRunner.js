@@ -2,6 +2,7 @@ var classannis_1_1administration_1_1AnnisAdminRunner =
 [
     [ "OptionBuilder", "classannis_1_1administration_1_1AnnisAdminRunner_1_1OptionBuilder.html", "classannis_1_1administration_1_1AnnisAdminRunner_1_1OptionBuilder" ],
     [ "doCleanupData", "classannis_1_1administration_1_1AnnisAdminRunner.html#a50e58e18b8e7d04af5e41da59b0f31da", null ],
+    [ "doCopy", "classannis_1_1administration_1_1AnnisAdminRunner.html#a6af96d815c9b1f0563c2a41593ac077b", null ],
     [ "doDelete", "classannis_1_1administration_1_1AnnisAdminRunner.html#a9a62c74694897586d4bfbb8662c3fede", null ],
     [ "doDeleteExampleQueries", "classannis_1_1administration_1_1AnnisAdminRunner.html#a638c9bcb66a52db1eb4df9bb6b89d800", null ],
     [ "doGenerateExampleQueries", "classannis_1_1administration_1_1AnnisAdminRunner.html#ac03b5cbf1de1a21a2b27bd5d071d0ef8", null ],
@@ -9,6 +10,7 @@ var classannis_1_1administration_1_1AnnisAdminRunner =
     [ "doIndexes", "classannis_1_1administration_1_1AnnisAdminRunner.html#ad75d3fe4f56cc669be0e8881c0005779", null ],
     [ "doInit", "classannis_1_1administration_1_1AnnisAdminRunner.html#a3cb3a831217530868d0d52878a69949a", null ],
     [ "doList", "classannis_1_1administration_1_1AnnisAdminRunner.html#a2bf4a581a87452f142eb026096174398", null ],
+    [ "doMigration", "classannis_1_1administration_1_1AnnisAdminRunner.html#ad65d47e540c60d713daa90365f2a820d", null ],
     [ "getAnnisDao", "classannis_1_1administration_1_1AnnisAdminRunner.html#ae472cfea10326f519a41978ae426ed55", null ],
     [ "getCorpusAdministration", "classannis_1_1administration_1_1AnnisAdminRunner.html#aab176302d87c80f48a6e0ac2d83d8400", null ],
     [ "getQueriesGenerator", "classannis_1_1administration_1_1AnnisAdminRunner.html#abe72cadfad4c6e35f87a832eae10cf90", null ],

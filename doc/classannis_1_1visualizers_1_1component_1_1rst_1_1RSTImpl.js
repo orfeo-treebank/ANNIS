@@ -7,6 +7,7 @@ var classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl =
     [ "checkConstraint", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#a56c923ed008da8fd1419889bfe59f9a6", null ],
     [ "createJsonEntry", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#ad6556209a10fa82518fbcdcb04393c04", null ],
     [ "getHTMLColor", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#ae144f890a5ec8b5fd31a1f927d3f592e", null ],
+    [ "getOrCreateArray", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#ac1d940887e9e8e38e5e6e5b319f6576c", null ],
     [ "getOutGoingEdgeTypeAnnotation", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#a433e66c160862f9f139a958bd6060475", null ],
     [ "getRSTType", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#acf30b13713f101549b83142cc61e7dc8", null ],
     [ "getText", "classannis_1_1visualizers_1_1component_1_1rst_1_1RSTImpl.html#a9988320c9c67f62fd9b0217604f94404", null ],

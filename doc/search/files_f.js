@@ -17,9 +17,11 @@ var searchData=
   ['pluginsystem_2ejava',['PluginSystem.java',['../PluginSystem_8java.html',1,'']]],
   ['pointingrelation_2ejava',['PointingRelation.java',['../PointingRelation_8java.html',1,'']]],
   ['pollcontrol_2ejava',['PollControl.java',['../PollControl_8java.html',1,'']]],
+  ['popuptwincolumnselect_2ejava',['PopupTwinColumnSelect.java',['../PopupTwinColumnSelect_8java.html',1,'']]],
   ['postgresql_2emd',['postgresql.md',['../postgresql_8md.html',1,'']]],
   ['postgresqlarraysolutionkey_2ejava',['PostgreSqlArraySolutionKey.java',['../PostgreSqlArraySolutionKey_8java.html',1,'']]],
   ['precedence_2ejava',['Precedence.java',['../Precedence_8java.html',1,'']]],
   ['proieldependecytree_2ejava',['ProielDependecyTree.java',['../ProielDependecyTree_8java.html',1,'']]],
-  ['proielregulardependencytree_2ejava',['ProielRegularDependencyTree.java',['../ProielRegularDependencyTree_8java.html',1,'']]]
+  ['proielregulardependencytree_2ejava',['ProielRegularDependencyTree.java',['../ProielRegularDependencyTree_8java.html',1,'']]],
+  ['pseudoregionmatcher_2ejava',['PseudoRegionMatcher.java',['../PseudoRegionMatcher_8java.html',1,'']]]
 ];

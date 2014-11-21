@@ -36,5 +36,6 @@ var classannis_1_1libgui_1_1Helper =
     [ "ERROR_MESSAGE_DOCUMENT_BROWSER_BODY", "classannis_1_1libgui_1_1Helper.html#a70c71587b5974a3e7c47345e4a65aac1", null ],
     [ "ERROR_MESSAGE_DOCUMENT_BROWSER_HEADER", "classannis_1_1libgui_1_1Helper.html#affe0c5ec7d41f476f55e472a72ae5971", null ],
     [ "KEY_WEB_SERVICE_URL", "classannis_1_1libgui_1_1Helper.html#a6b951c4a552f802c72c6ad552ad689e6", null ],
-    [ "log", "classannis_1_1libgui_1_1Helper.html#afc9c7047475fad58b4708fd1d4965e17", null ]
+    [ "log", "classannis_1_1libgui_1_1Helper.html#afc9c7047475fad58b4708fd1d4965e17", null ],
+    [ "urlPathEscape", "classannis_1_1libgui_1_1Helper.html#abac067bb877afd4a79b130a50418bd0b", null ]
 ];

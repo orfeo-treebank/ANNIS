@@ -14,7 +14,7 @@ var classannis_1_1gui_1_1QueryController =
     [ "getPreparedQuery", "classannis_1_1gui_1_1QueryController.html#af9a27aca6e8962f0487c866b8914c2aa", null ],
     [ "getQueries", "classannis_1_1gui_1_1QueryController.html#a67f5dd63d6f9477d3c40f177b0ba3dac", null ],
     [ "getQueryDraft", "classannis_1_1gui_1_1QueryController.html#aca167dd0545fa65fe87fed48a9ea096a", null ],
-    [ "getQueryPanels", "classannis_1_1gui_1_1QueryController.html#a200f55276fd5b05aa53bd3bd671d161b", null ],
+    [ "getResultPanels", "classannis_1_1gui_1_1QueryController.html#a06e739a47034773513a328f17b08ec55", null ],
     [ "getSelectedCorpora", "classannis_1_1gui_1_1QueryController.html#a140dbce88fe4ce8c8f0bf59031ab095f", null ],
     [ "notifyTabClose", "classannis_1_1gui_1_1QueryController.html#aa601daccb7c5f8b939a107609f610866", null ],
     [ "prepareExecuteQuery", "classannis_1_1gui_1_1QueryController.html#af6a07e4d86667a35add03d3499e64f80", null ],
@@ -39,7 +39,7 @@ var classannis_1_1gui_1_1QueryController =
     [ "maxShortID", "classannis_1_1gui_1_1QueryController.html#a0d9ce466a3a61b4e511ae7a0118144e0", null ],
     [ "preparedQuery", "classannis_1_1gui_1_1QueryController.html#a6daf05519676bbd24c56632326a43f3c", null ],
     [ "queries", "classannis_1_1gui_1_1QueryController.html#add8a9e4bb99cbe5ba505a863a2102c29", null ],
-    [ "queryPanels", "classannis_1_1gui_1_1QueryController.html#a206c2818356d43d9cdf5286acd7cf161", null ],
+    [ "resultPanels", "classannis_1_1gui_1_1QueryController.html#a11952ba272f3b666200f2889e6b9a33f", null ],
     [ "ui", "classannis_1_1gui_1_1QueryController.html#aca6688cfe7aebc36272d469122a0d9d5", null ],
     [ "updatedQueries", "classannis_1_1gui_1_1QueryController.html#a1c8b8c1ddf237d29c198e24517f3b00a", null ]
 ];

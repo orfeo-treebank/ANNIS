@@ -33,7 +33,6 @@ var classannis_1_1gui_1_1resultview_1_1ResultViewPanel =
     [ "NULL_SEGMENTATION_VALUE", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#addb005ffe4b21696e5c19c4611e6b603", null ],
     [ "numberOfResults", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a1be72cb3c2aeb2e1ed7e077dc2b9ea64", null ],
     [ "paging", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#ae8d4b1fee6f7c8cd5ae4e6ceae31f328", null ],
-    [ "progressResult", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a7e62279f429e1258397d92eefc95df39", null ],
     [ "projectQueue", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a0e08f1545d58e44bd530512128adf009", null ],
     [ "ps", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a4dbc66e3c8c704e78155d8b23da2394e", null ],
     [ "queryId", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a7a24744769ad3c4e7218c9e0faed0c02", null ],
@@ -42,6 +41,7 @@ var classannis_1_1gui_1_1resultview_1_1ResultViewPanel =
     [ "segmentationLayerSet", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a8cb6bbecbd304ac38ef55f04edd73bb1", null ],
     [ "segmentationName", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#af98d73226e8052a050acd84f76363286", null ],
     [ "selectedSegmentationLayer", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a82995aa59b59a521df7e1fdac5286dcf", null ],
+    [ "sui", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a47a34fd38a7f5cda045369fea82694d2", null ],
     [ "tokenAnnotationLevelSet", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#a21dbd7eb5a75e05c72610441b295053a", null ],
     [ "tokenAnnoVisible", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html#ac461a06402ae007c2757ee1d9f87b772", null ]
 ];

@@ -2,6 +2,7 @@ var classannis_1_1sqlgen_1_1SqlConstraints =
 [
     [ "between", "classannis_1_1sqlgen_1_1SqlConstraints.html#a9ee140f74ade06d3b4191366851fe9d4", null ],
     [ "between", "classannis_1_1sqlgen_1_1SqlConstraints.html#acc95af950a5c45779f68e17d485cde7b", null ],
+    [ "betweenMirror", "classannis_1_1sqlgen_1_1SqlConstraints.html#a1ef81fcbe110701a1982fefb760170be", null ],
     [ "bitSelect", "classannis_1_1sqlgen_1_1SqlConstraints.html#a723121b30b08c9d3ba0b6e96c0bd3bdc", null ],
     [ "in", "classannis_1_1sqlgen_1_1SqlConstraints.html#ac661442848dc5af2293db5620bb4115f", null ],
     [ "in", "classannis_1_1sqlgen_1_1SqlConstraints.html#acc4d0f6c30b4510fe70af9ad1d9611ab", null ],
@@ -12,7 +13,9 @@ var classannis_1_1sqlgen_1_1SqlConstraints =
     [ "isNull", "classannis_1_1sqlgen_1_1SqlConstraints.html#a0cafb0338a42e699ecf0c06e5a47e211", null ],
     [ "isTrue", "classannis_1_1sqlgen_1_1SqlConstraints.html#aa1e405f9dce6e52129055bcae3a56d66", null ],
     [ "join", "classannis_1_1sqlgen_1_1SqlConstraints.html#a2ed4c34395d4674f7d52bad6c9c80934", null ],
+    [ "mirrorJoin", "classannis_1_1sqlgen_1_1SqlConstraints.html#ae0760b0ce4a68f9b9d0f03c05a155a99", null ],
     [ "numberJoin", "classannis_1_1sqlgen_1_1SqlConstraints.html#a3c2a33aaaefaf7c76270ae25069abe5c", null ],
+    [ "numberMirrorJoin", "classannis_1_1sqlgen_1_1SqlConstraints.html#af36f991575a076fc6916c1c7f11f0b99", null ],
     [ "setDisableBetweenPredicate", "classannis_1_1sqlgen_1_1SqlConstraints.html#ac3489843c68299f702a8e658d7a08225", null ],
     [ "setDisableBetweenSymmetricPredicate", "classannis_1_1sqlgen_1_1SqlConstraints.html#a43ae054e54d24964b4e6f95f0debf7c4", null ],
     [ "sqlString", "classannis_1_1sqlgen_1_1SqlConstraints.html#a62996fb8c55c90e314ddad66c9d7ed7a", null ],

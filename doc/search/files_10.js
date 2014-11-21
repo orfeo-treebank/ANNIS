@@ -6,6 +6,7 @@ var searchData=
   ['querybuilder_2emd',['querybuilder.md',['../querybuilder_8md.html',1,'']]],
   ['querybuilderchooser_2ejava',['QueryBuilderChooser.java',['../QueryBuilderChooser_8java.html',1,'']]],
   ['querybuilderplugin_2ejava',['QueryBuilderPlugin.java',['../QueryBuilderPlugin_8java.html',1,'']]],
+  ['querybyurl_2emd',['querybyurl.md',['../querybyurl_8md.html',1,'']]],
   ['querycontroller_2ejava',['QueryController.java',['../QueryController_8java.html',1,'']]],
   ['querydata_2ejava',['QueryData.java',['../QueryData_8java.html',1,'']]],
   ['querydatatransformer_2ejava',['QueryDataTransformer.java',['../QueryDataTransformer_8java.html',1,'']]],
