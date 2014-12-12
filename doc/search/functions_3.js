@@ -100,7 +100,7 @@ var searchData=
   ['corpuslistpanel',['CorpusListPanel',['../classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel.html#a6ebc1aa16bac7361607dfc75b275c327',1,'annis::gui::controlpanel::CorpusListPanel']]],
   ['corpusselectionchangedinbackground',['corpusSelectionChangedInBackground',['../classannis_1_1gui_1_1QueryController.html#a1d53eaf97978d8bb32b28bdfac5f21ae',1,'annis::gui::QueryController']]],
   ['corpustablechangedlistener',['CorpusTableChangedListener',['../classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener.html#a26d04d3426a364445f070410903f52ce',1,'annis::gui::controlpanel::CorpusListPanel::CorpusTableChangedListener']]],
-  ['count',['count',['../interfaceannis_1_1dao_1_1AnnisDao.html#a9add5bc0d016bec65aa09b798733ba2a',1,'annis::dao::AnnisDao']]],
+  ['count',['count',['../interfaceannis_1_1service_1_1QueryService.html#af3a82ae09a56dc476fe04b1025f700ec',1,'annis.service.QueryService.count()'],['../interfaceannis_1_1dao_1_1AnnisDao.html#a9add5bc0d016bec65aa09b798733ba2a',1,'annis.dao.AnnisDao.count()']]],
   ['countcallback',['CountCallback',['../classannis_1_1gui_1_1QueryController_1_1CountCallback.html#ab1b5eec79cdab8f05d1ca38774277857',1,'annis::gui::QueryController::CountCallback']]],
   ['countmatchesanddocuments',['countMatchesAndDocuments',['../interfaceannis_1_1dao_1_1AnnisDao.html#a5b0d942c26ef4e5cfa953e192d010ae5',1,'annis::dao::AnnisDao']]],
   ['coveredmatchescalculator',['CoveredMatchesCalculator',['../classannis_1_1gui_1_1resultview_1_1SingleResultPanel_1_1CoveredMatchesCalculator.html#a142d6986f52a9af296242a432c4b527b',1,'annis::gui::resultview::SingleResultPanel::CoveredMatchesCalculator']]],

@@ -1020,7 +1020,7 @@ var files =
       [ "ShowQueryBuilderClickListener", "classannis_1_1gui_1_1controlpanel_1_1QueryPanel_1_1ShowQueryBuilderClickListener.html", "classannis_1_1gui_1_1controlpanel_1_1QueryPanel_1_1ShowQueryBuilderClickListener" ]
     ] ],
     [ "QueryService.java", "QueryService_8java.html", [
-      [ "QueryService", "interfaceannis_1_1service_1_1QueryService.html", null ]
+      [ "QueryService", "interfaceannis_1_1service_1_1QueryService.html", "interfaceannis_1_1service_1_1QueryService" ]
     ] ],
     [ "QueryServiceImpl.java", "QueryServiceImpl_8java.html", null ],
     [ "RangedJoin.java", "RangedJoin_8java.html", [

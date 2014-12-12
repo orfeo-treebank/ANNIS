@@ -265,7 +265,7 @@ var searchData=
   ['corpussorter_2ejava',['CorpusSorter.java',['../CorpusSorter_8java.html',1,'']]],
   ['corpustablechangedlistener',['CorpusTableChangedListener',['../classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener.html',1,'annis::gui::controlpanel::CorpusListPanel']]],
   ['corpustablechangedlistener',['CorpusTableChangedListener',['../classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1CorpusTableChangedListener.html#a26d04d3426a364445f070410903f52ce',1,'annis::gui::controlpanel::CorpusListPanel::CorpusTableChangedListener']]],
-  ['count',['count',['../classannis_1_1gui_1_1paging_1_1PagingComponent.html#a5d489675417c6b70ca70f68139927412',1,'annis.gui.paging.PagingComponent.count()'],['../interfaceannis_1_1dao_1_1AnnisDao.html#a9add5bc0d016bec65aa09b798733ba2a',1,'annis.dao.AnnisDao.count()']]],
+  ['count',['count',['../classannis_1_1gui_1_1paging_1_1PagingComponent.html#a5d489675417c6b70ca70f68139927412',1,'annis.gui.paging.PagingComponent.count()'],['../interfaceannis_1_1service_1_1QueryService.html#af3a82ae09a56dc476fe04b1025f700ec',1,'annis.service.QueryService.count()'],['../interfaceannis_1_1dao_1_1AnnisDao.html#a9add5bc0d016bec65aa09b798733ba2a',1,'annis.dao.AnnisDao.count()']]],
   ['countcallback',['CountCallback',['../classannis_1_1gui_1_1QueryController_1_1CountCallback.html',1,'annis::gui::QueryController']]],
   ['countcallback',['CountCallback',['../classannis_1_1gui_1_1QueryController_1_1CountCallback.html#ab1b5eec79cdab8f05d1ca38774277857',1,'annis::gui::QueryController::CountCallback']]],
   ['counter',['counter',['../classannis_1_1gui_1_1frequency_1_1FrequencyQueryPanel.html#aeb819ec94b55f8ed7c7b489db8b7a736',1,'annis::gui::frequency::FrequencyQueryPanel']]],

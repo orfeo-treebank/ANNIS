@@ -53,7 +53,7 @@ var NAVTREEINDEX =
 "classannis_1_1visualizers_1_1iframe_1_1partitur_1_1DetectHoles.html",
 "enumannis_1_1gui_1_1querybuilder_1_1AQLOperator.html#aaf2b38c2c4c07d411f7ecc990d1d0e9c",
 "interfaceannis_1_1dao_1_1AnnisDao.html#a088b699c54ba03b427e4fd7d4f78cb6a",
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#a98e2759e164bec61db29f7c81f3dd934"
+"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#ac3562bbb45147ab918fa4fb8405e3686"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

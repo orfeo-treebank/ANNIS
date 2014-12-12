@@ -166,6 +166,11 @@ var NAVTREEINDEX23 =
 "interfaceannis_1_1service_1_1MetadataService.html#a4f54b79012abe88f36e879e4e1ed0826":[5,0,0,14,4,2],
 "interfaceannis_1_1service_1_1MetadataService.html#abac19e9e2c9a06697c5de90998c6d5f3":[5,0,0,14,4,3],
 "interfaceannis_1_1service_1_1QueryService.html":[5,0,0,14,5],
+"interfaceannis_1_1service_1_1QueryService.html#a0be91cbb25b31d8788f6a561cbe82cd9":[5,0,0,14,5,3],
+"interfaceannis_1_1service_1_1QueryService.html#a657c994b1be5b568ba072878dd98bc53":[5,0,0,14,5,0],
+"interfaceannis_1_1service_1_1QueryService.html#a7aecc4f056f9b7df21c85851027ae831":[5,0,0,14,5,4],
+"interfaceannis_1_1service_1_1QueryService.html#a92308b95fc2b3f74371a4c2da5b4809b":[5,0,0,14,5,2],
+"interfaceannis_1_1service_1_1QueryService.html#af3a82ae09a56dc476fe04b1025f700ec":[5,0,0,14,5,1],
 "interfaceannis_1_1service_1_1ifaces_1_1AnnisResult.html":[5,0,0,14,0,0],
 "interfaceannis_1_1service_1_1ifaces_1_1AnnisResult.html#a02b027117e471e75c4c895b58f3ad2dd":[5,0,0,14,0,0,8],
 "interfaceannis_1_1service_1_1ifaces_1_1AnnisResult.html#a064f56d7a59cfb031ebab9b6fe63b79b":[5,0,0,14,0,0,9],
@@ -244,10 +249,5 @@ var NAVTREEINDEX23 =
 "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend_3_01T_01extends_01GraphicsItem_01_4_1_1Font.html#aff74baa464076982a29e9b1991ec7d12":[5,0,0,17,0,7,3,1,0],
 "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html":[5,0,0,17,0,7,4],
 "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#a6574527f25ce5795422c842db33eb75f":[5,0,0,17,0,7,4,1],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#ab2a422c2b5933f9c8eb3c128746582e3":[5,0,0,17,0,7,4,0],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#ac3562bbb45147ab918fa4fb8405e3686":[5,0,0,17,0,7,4,2],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html":[5,0,0,17,0,7,10],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#a131e8bd531a78574d9f9005f1ae1f989":[5,0,0,17,0,7,10,7],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#a3adfcf52106797230cde89754388cc22":[5,0,0,17,0,7,10,8],
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1Shape.html#a7f3355ef4429e82ef2cc4d57dd9caf0d":[5,0,0,17,0,7,10,5]
+"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#ab2a422c2b5933f9c8eb3c128746582e3":[5,0,0,17,0,7,4,0]
 };

@@ -5,5 +5,5 @@ var namespaceannis_1_1service =
     [ "objects", "namespaceannis_1_1service_1_1objects.html", "namespaceannis_1_1service_1_1objects" ],
     [ "AdminService", "interfaceannis_1_1service_1_1AdminService.html", "interfaceannis_1_1service_1_1AdminService" ],
     [ "MetadataService", "interfaceannis_1_1service_1_1MetadataService.html", "interfaceannis_1_1service_1_1MetadataService" ],
-    [ "QueryService", "interfaceannis_1_1service_1_1QueryService.html", null ]
+    [ "QueryService", "interfaceannis_1_1service_1_1QueryService.html", "interfaceannis_1_1service_1_1QueryService" ]
 ];

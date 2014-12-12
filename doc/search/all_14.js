@@ -51,7 +51,7 @@ var searchData=
   ['textfromspec',['textFromSpec',['../classannis_1_1ql_1_1parser_1_1QueryNodeListener.html#a3cb3ee0838fc861043abb839a38ab622',1,'annis::ql::parser::QueryNodeListener']]],
   ['textid',['textID',['../classannis_1_1gui_1_1widgets_1_1grid_1_1GridEvent.html#a60db51bf3e40909fcf5a27abb8794fc0',1,'annis.gui.widgets.grid.GridEvent.textID()'],['../classannis_1_1model_1_1QueryNode.html#ae039ca9705598763f81bedf1d68c8076',1,'annis.model.QueryNode.textId()']]],
   ['textids',['textIDs',['../classannis_1_1gui_1_1widgets_1_1grid_1_1Row.html#ae429f5decc861ec71614642bf2e5408f',1,'annis::gui::widgets::grid::Row']]],
-  ['textmatching',['TextMatching',['../enumannis_1_1model_1_1QueryNode_1_1TextMatching.html#aaf299b5aa438a74e9faf4dc4305c98a7',1,'annis.model.QueryNode.TextMatching.TextMatching()'],['../classannis_1_1model_1_1QueryAnnotation.html#ad366abe3779a2eb05736eb254acdbbef',1,'annis.model.QueryAnnotation.textMatching()']]],
+  ['textmatching',['textMatching',['../classannis_1_1model_1_1QueryAnnotation.html#ad366abe3779a2eb05736eb254acdbbef',1,'annis.model.QueryAnnotation.textMatching()'],['../enumannis_1_1model_1_1QueryNode_1_1TextMatching.html#aaf299b5aa438a74e9faf4dc4305c98a7',1,'annis.model.QueryNode.TextMatching.TextMatching()']]],
   ['textmatching',['TextMatching',['../enumannis_1_1model_1_1QueryNode_1_1TextMatching.html',1,'annis::model::QueryNode']]],
   ['textmatchingfromspec',['textMatchingFromSpec',['../classannis_1_1ql_1_1parser_1_1QueryNodeListener.html#a1b55a7c4063810eec17231016dfe7f67',1,'annis::ql::parser::QueryNodeListener']]],
   ['textref',['textRef',['../classannis_1_1model_1_1RelannisNodeFeature.html#a873c46e07525a440e89ffdeaac403921',1,'annis::model::RelannisNodeFeature']]],
