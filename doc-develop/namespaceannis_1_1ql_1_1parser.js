@@ -1,15 +1,15 @@
 var namespaceannis_1_1ql_1_1parser =
 [
-    [ "AnnisParserAntlr", "classannis_1_1ql_1_1parser_1_1AnnisParserAntlr.html", "classannis_1_1ql_1_1parser_1_1AnnisParserAntlr" ],
-    [ "ComponentSearchRelationNormalizer", "classannis_1_1ql_1_1parser_1_1ComponentSearchRelationNormalizer.html", "classannis_1_1ql_1_1parser_1_1ComponentSearchRelationNormalizer" ],
-    [ "DNFTransformer", "classannis_1_1ql_1_1parser_1_1DNFTransformer.html", "classannis_1_1ql_1_1parser_1_1DNFTransformer" ],
-    [ "JoinListener", "classannis_1_1ql_1_1parser_1_1JoinListener.html", "classannis_1_1ql_1_1parser_1_1JoinListener" ],
-    [ "ListTokenSource", "classannis_1_1ql_1_1parser_1_1ListTokenSource.html", "classannis_1_1ql_1_1parser_1_1ListTokenSource" ],
-    [ "LogicClause", "classannis_1_1ql_1_1parser_1_1LogicClause.html", "classannis_1_1ql_1_1parser_1_1LogicClause" ],
-    [ "QueryData", "classannis_1_1ql_1_1parser_1_1QueryData.html", "classannis_1_1ql_1_1parser_1_1QueryData" ],
-    [ "QueryDataTransformer", "interfaceannis_1_1ql_1_1parser_1_1QueryDataTransformer.html", "interfaceannis_1_1ql_1_1parser_1_1QueryDataTransformer" ],
-    [ "QueryNodeListener", "classannis_1_1ql_1_1parser_1_1QueryNodeListener.html", "classannis_1_1ql_1_1parser_1_1QueryNodeListener" ],
-    [ "RawAqlListener", "classannis_1_1ql_1_1parser_1_1RawAqlListener.html", "classannis_1_1ql_1_1parser_1_1RawAqlListener" ],
-    [ "SemanticValidator", "classannis_1_1ql_1_1parser_1_1SemanticValidator.html", "classannis_1_1ql_1_1parser_1_1SemanticValidator" ],
-    [ "TransitivePrecedenceOptimizer", "classannis_1_1ql_1_1parser_1_1TransitivePrecedenceOptimizer.html", "classannis_1_1ql_1_1parser_1_1TransitivePrecedenceOptimizer" ]
+    [ "AnnisParserAntlr", "classannis_1_1ql_1_1parser_1_1_annis_parser_antlr.html", "classannis_1_1ql_1_1parser_1_1_annis_parser_antlr" ],
+    [ "ComponentSearchRelationNormalizer", "classannis_1_1ql_1_1parser_1_1_component_search_relation_normalizer.html", "classannis_1_1ql_1_1parser_1_1_component_search_relation_normalizer" ],
+    [ "DNFTransformer", "classannis_1_1ql_1_1parser_1_1_d_n_f_transformer.html", "classannis_1_1ql_1_1parser_1_1_d_n_f_transformer" ],
+    [ "JoinListener", "classannis_1_1ql_1_1parser_1_1_join_listener.html", "classannis_1_1ql_1_1parser_1_1_join_listener" ],
+    [ "ListTokenSource", "classannis_1_1ql_1_1parser_1_1_list_token_source.html", "classannis_1_1ql_1_1parser_1_1_list_token_source" ],
+    [ "LogicClause", "classannis_1_1ql_1_1parser_1_1_logic_clause.html", "classannis_1_1ql_1_1parser_1_1_logic_clause" ],
+    [ "QueryData", "classannis_1_1ql_1_1parser_1_1_query_data.html", "classannis_1_1ql_1_1parser_1_1_query_data" ],
+    [ "QueryDataTransformer", "interfaceannis_1_1ql_1_1parser_1_1_query_data_transformer.html", "interfaceannis_1_1ql_1_1parser_1_1_query_data_transformer" ],
+    [ "QueryNodeListener", "classannis_1_1ql_1_1parser_1_1_query_node_listener.html", "classannis_1_1ql_1_1parser_1_1_query_node_listener" ],
+    [ "RawAqlListener", "classannis_1_1ql_1_1parser_1_1_raw_aql_listener.html", "classannis_1_1ql_1_1parser_1_1_raw_aql_listener" ],
+    [ "SemanticValidator", "classannis_1_1ql_1_1parser_1_1_semantic_validator.html", "classannis_1_1ql_1_1parser_1_1_semantic_validator" ],
+    [ "TransitivePrecedenceOptimizer", "classannis_1_1ql_1_1parser_1_1_transitive_precedence_optimizer.html", "classannis_1_1ql_1_1parser_1_1_transitive_precedence_optimizer" ]
 ];

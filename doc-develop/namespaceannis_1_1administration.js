@@ -1,12 +1,12 @@
 var namespaceannis_1_1administration =
 [
-    [ "AbstractAdminstrationDao", "classannis_1_1administration_1_1AbstractAdminstrationDao.html", "classannis_1_1administration_1_1AbstractAdminstrationDao" ],
-    [ "AdministrationDao", "classannis_1_1administration_1_1AdministrationDao.html", "classannis_1_1administration_1_1AdministrationDao" ],
-    [ "AnnisAdminRunner", "classannis_1_1administration_1_1AnnisAdminRunner.html", "classannis_1_1administration_1_1AnnisAdminRunner" ],
-    [ "BinaryImportHelper", "classannis_1_1administration_1_1BinaryImportHelper.html", "classannis_1_1administration_1_1BinaryImportHelper" ],
-    [ "CorpusAdministration", "classannis_1_1administration_1_1CorpusAdministration.html", "classannis_1_1administration_1_1CorpusAdministration" ],
-    [ "DeleteCorpusDao", "classannis_1_1administration_1_1DeleteCorpusDao.html", "classannis_1_1administration_1_1DeleteCorpusDao" ],
-    [ "ImportStatus", "interfaceannis_1_1administration_1_1ImportStatus.html", "interfaceannis_1_1administration_1_1ImportStatus" ],
-    [ "SchemeFixer", "classannis_1_1administration_1_1SchemeFixer.html", "classannis_1_1administration_1_1SchemeFixer" ],
-    [ "StatementController", "interfaceannis_1_1administration_1_1StatementController.html", "interfaceannis_1_1administration_1_1StatementController" ]
+    [ "AbstractAdminstrationDao", "classannis_1_1administration_1_1_abstract_adminstration_dao.html", "classannis_1_1administration_1_1_abstract_adminstration_dao" ],
+    [ "AdministrationDao", "classannis_1_1administration_1_1_administration_dao.html", "classannis_1_1administration_1_1_administration_dao" ],
+    [ "AnnisAdminRunner", "classannis_1_1administration_1_1_annis_admin_runner.html", "classannis_1_1administration_1_1_annis_admin_runner" ],
+    [ "BinaryImportHelper", "classannis_1_1administration_1_1_binary_import_helper.html", "classannis_1_1administration_1_1_binary_import_helper" ],
+    [ "CorpusAdministration", "classannis_1_1administration_1_1_corpus_administration.html", "classannis_1_1administration_1_1_corpus_administration" ],
+    [ "DeleteCorpusDao", "classannis_1_1administration_1_1_delete_corpus_dao.html", "classannis_1_1administration_1_1_delete_corpus_dao" ],
+    [ "ImportStatus", "interfaceannis_1_1administration_1_1_import_status.html", "interfaceannis_1_1administration_1_1_import_status" ],
+    [ "SchemeFixer", "classannis_1_1administration_1_1_scheme_fixer.html", "classannis_1_1administration_1_1_scheme_fixer" ],
+    [ "StatementController", "interfaceannis_1_1administration_1_1_statement_controller.html", "interfaceannis_1_1administration_1_1_statement_controller" ]
 ];

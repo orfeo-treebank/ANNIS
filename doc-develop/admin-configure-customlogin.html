@@ -31,7 +31,7 @@
   <td id="projectlogo"><img alt="Logo" src="annis_64.png"/></td>
   <td style="padding-left: 0.5em;">
    <div id="projectname">ANNIS
-   &#160;<span id="projectnumber">3.2.0-SNAPSHOT</span>
+   &#160;<span id="projectnumber">3.3.0-SNAPSHOT</span>
    </div>
    <div id="projectbrief">An open source, versatile web browser-based search and visualization architecture for complex multilevel linguistic corpora with diverse types of annotation.</div>
   </td>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('admin-configure-customlogin.html','');
 <p>The first step is to configure a custom login page in the <code>annis-gui.properties</code> file, which must be located in one of the <a class="el" href="admin-configure-webapp.html#admin-configure-general">configuration folders</a>. Here you can set the <code>login-url</code> parameter to the URL of your custom login page. Optionally set <code>login-window-maximized=true</code> to use the full browser window. Since the login page will be displayed using an iframe, it should be on the same server as the ANNIS web frontend.</p>
 <p>The custom login page should be a web application that does the following things:</p><ul>
 <li>authentificate the user</li>
-<li>use the <a class="el" href="interfaceannis_1_1service_1_1AdminService.html#a812b72d08a348cbf528a65b557384cee">special REST API function</a> to create a temporary account with a random password (you can use an expiration date to limit the validity).</li>
+<li>use the <a class="el" href="interfaceannis_1_1service_1_1_admin_service.html#a812b72d08a348cbf528a65b557384cee">special REST API function</a> to create a temporary account with a random password (you can use an expiration date to limit the validity).</li>
 <li>initiate a <code>POST</code> request to <code><a href="https://">https://</a>&lt;yourdmain&gt;/&lt;annispath&gt;/login</code> containing the parameters <code>annis-login-user</code> and <code>annis-login-password</code> from the users browser.</li>
 <li>if you want to close the login window without changing the login-information execute the <code>window.parent.annis.gui.logincallback()</code> javascript function </li>
 </ul>
@@ -118,7 +118,7 @@ $(document).ready(function(){initNavTree('admin-configure-customlogin.html','');
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="admin.html">Administration</a></li>
-    <li class="footer">Generated on Fri Nov 7 2014 09:26:46 for ANNIS by
+    <li class="footer">Generated on Fri Dec 12 2014 12:37:41 for ANNIS by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>

@@ -1,10 +1,10 @@
 var namespaceannis_1_1libgui_1_1media =
 [
-    [ "MediaController", "interfaceannis_1_1libgui_1_1media_1_1MediaController.html", "interfaceannis_1_1libgui_1_1media_1_1MediaController" ],
-    [ "MediaControllerImpl", "classannis_1_1libgui_1_1media_1_1MediaControllerImpl.html", "classannis_1_1libgui_1_1media_1_1MediaControllerImpl" ],
-    [ "MediaPlayer", "interfaceannis_1_1libgui_1_1media_1_1MediaPlayer.html", "interfaceannis_1_1libgui_1_1media_1_1MediaPlayer" ],
-    [ "MimeTypeErrorListener", "interfaceannis_1_1libgui_1_1media_1_1MimeTypeErrorListener.html", "interfaceannis_1_1libgui_1_1media_1_1MimeTypeErrorListener" ],
-    [ "PDFController", "interfaceannis_1_1libgui_1_1media_1_1PDFController.html", "interfaceannis_1_1libgui_1_1media_1_1PDFController" ],
-    [ "PDFViewer", "interfaceannis_1_1libgui_1_1media_1_1PDFViewer.html", "interfaceannis_1_1libgui_1_1media_1_1PDFViewer" ],
-    [ "TimeHelper", "classannis_1_1libgui_1_1media_1_1TimeHelper.html", "classannis_1_1libgui_1_1media_1_1TimeHelper" ]
+    [ "MediaController", "interfaceannis_1_1libgui_1_1media_1_1_media_controller.html", "interfaceannis_1_1libgui_1_1media_1_1_media_controller" ],
+    [ "MediaControllerImpl", "classannis_1_1libgui_1_1media_1_1_media_controller_impl.html", "classannis_1_1libgui_1_1media_1_1_media_controller_impl" ],
+    [ "MediaPlayer", "interfaceannis_1_1libgui_1_1media_1_1_media_player.html", "interfaceannis_1_1libgui_1_1media_1_1_media_player" ],
+    [ "MimeTypeErrorListener", "interfaceannis_1_1libgui_1_1media_1_1_mime_type_error_listener.html", "interfaceannis_1_1libgui_1_1media_1_1_mime_type_error_listener" ],
+    [ "PDFController", "interfaceannis_1_1libgui_1_1media_1_1_p_d_f_controller.html", "interfaceannis_1_1libgui_1_1media_1_1_p_d_f_controller" ],
+    [ "PDFViewer", "interfaceannis_1_1libgui_1_1media_1_1_p_d_f_viewer.html", "interfaceannis_1_1libgui_1_1media_1_1_p_d_f_viewer" ],
+    [ "TimeHelper", "classannis_1_1libgui_1_1media_1_1_time_helper.html", "classannis_1_1libgui_1_1media_1_1_time_helper" ]
 ];

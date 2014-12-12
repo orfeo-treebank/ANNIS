@@ -1,10 +1,10 @@
 var namespaceannis_1_1gui_1_1exporter =
 [
-    [ "CSVExporter", "classannis_1_1gui_1_1exporter_1_1CSVExporter.html", "classannis_1_1gui_1_1exporter_1_1CSVExporter" ],
-    [ "Exporter", "interfaceannis_1_1gui_1_1exporter_1_1Exporter.html", "interfaceannis_1_1gui_1_1exporter_1_1Exporter" ],
-    [ "GeneralTextExporter", "classannis_1_1gui_1_1exporter_1_1GeneralTextExporter.html", "classannis_1_1gui_1_1exporter_1_1GeneralTextExporter" ],
-    [ "GridExporter", "classannis_1_1gui_1_1exporter_1_1GridExporter.html", "classannis_1_1gui_1_1exporter_1_1GridExporter" ],
-    [ "SimpleTextExporter", "classannis_1_1gui_1_1exporter_1_1SimpleTextExporter.html", "classannis_1_1gui_1_1exporter_1_1SimpleTextExporter" ],
-    [ "TextExporter", "classannis_1_1gui_1_1exporter_1_1TextExporter.html", "classannis_1_1gui_1_1exporter_1_1TextExporter" ],
-    [ "WekaExporter", "classannis_1_1gui_1_1exporter_1_1WekaExporter.html", "classannis_1_1gui_1_1exporter_1_1WekaExporter" ]
+    [ "CSVExporter", "classannis_1_1gui_1_1exporter_1_1_c_s_v_exporter.html", "classannis_1_1gui_1_1exporter_1_1_c_s_v_exporter" ],
+    [ "Exporter", "interfaceannis_1_1gui_1_1exporter_1_1_exporter.html", "interfaceannis_1_1gui_1_1exporter_1_1_exporter" ],
+    [ "GeneralTextExporter", "classannis_1_1gui_1_1exporter_1_1_general_text_exporter.html", "classannis_1_1gui_1_1exporter_1_1_general_text_exporter" ],
+    [ "GridExporter", "classannis_1_1gui_1_1exporter_1_1_grid_exporter.html", "classannis_1_1gui_1_1exporter_1_1_grid_exporter" ],
+    [ "SimpleTextExporter", "classannis_1_1gui_1_1exporter_1_1_simple_text_exporter.html", "classannis_1_1gui_1_1exporter_1_1_simple_text_exporter" ],
+    [ "TextExporter", "classannis_1_1gui_1_1exporter_1_1_text_exporter.html", "classannis_1_1gui_1_1exporter_1_1_text_exporter" ],
+    [ "WekaExporter", "classannis_1_1gui_1_1exporter_1_1_weka_exporter.html", "classannis_1_1gui_1_1exporter_1_1_weka_exporter" ]
 ];

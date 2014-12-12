@@ -1,6 +1,6 @@
 var namespaceannis_1_1gui_1_1docbrowser =
 [
-    [ "DocBrowserController", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController.html", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserController" ],
-    [ "DocBrowserPanel", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel.html", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserPanel" ],
-    [ "DocBrowserTable", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserTable.html", "classannis_1_1gui_1_1docbrowser_1_1DocBrowserTable" ]
+    [ "DocBrowserController", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_controller.html", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_controller" ],
+    [ "DocBrowserPanel", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_panel.html", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_panel" ],
+    [ "DocBrowserTable", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_table.html", "classannis_1_1gui_1_1docbrowser_1_1_doc_browser_table" ]
 ];

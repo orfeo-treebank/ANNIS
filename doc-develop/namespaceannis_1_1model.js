@@ -1,12 +1,12 @@
 var namespaceannis_1_1model =
 [
-    [ "AnnisConstants", "classannis_1_1model_1_1AnnisConstants.html", "classannis_1_1model_1_1AnnisConstants" ],
-    [ "Annotation", "classannis_1_1model_1_1Annotation.html", "classannis_1_1model_1_1Annotation" ],
-    [ "AnnotationGraph", "classannis_1_1model_1_1AnnotationGraph.html", "classannis_1_1model_1_1AnnotationGraph" ],
-    [ "DataObject", "classannis_1_1model_1_1DataObject.html", null ],
-    [ "Edge", "classannis_1_1model_1_1Edge.html", "classannis_1_1model_1_1Edge" ],
-    [ "QueryAnnotation", "classannis_1_1model_1_1QueryAnnotation.html", "classannis_1_1model_1_1QueryAnnotation" ],
-    [ "QueryNode", "classannis_1_1model_1_1QueryNode.html", "classannis_1_1model_1_1QueryNode" ],
-    [ "RelannisEdgeFeature", "classannis_1_1model_1_1RelannisEdgeFeature.html", "classannis_1_1model_1_1RelannisEdgeFeature" ],
-    [ "RelannisNodeFeature", "classannis_1_1model_1_1RelannisNodeFeature.html", "classannis_1_1model_1_1RelannisNodeFeature" ]
+    [ "AnnisConstants", "classannis_1_1model_1_1_annis_constants.html", "classannis_1_1model_1_1_annis_constants" ],
+    [ "Annotation", "classannis_1_1model_1_1_annotation.html", "classannis_1_1model_1_1_annotation" ],
+    [ "AnnotationGraph", "classannis_1_1model_1_1_annotation_graph.html", "classannis_1_1model_1_1_annotation_graph" ],
+    [ "DataObject", "classannis_1_1model_1_1_data_object.html", null ],
+    [ "Edge", "classannis_1_1model_1_1_edge.html", "classannis_1_1model_1_1_edge" ],
+    [ "QueryAnnotation", "classannis_1_1model_1_1_query_annotation.html", "classannis_1_1model_1_1_query_annotation" ],
+    [ "QueryNode", "classannis_1_1model_1_1_query_node.html", "classannis_1_1model_1_1_query_node" ],
+    [ "RelannisEdgeFeature", "classannis_1_1model_1_1_relannis_edge_feature.html", "classannis_1_1model_1_1_relannis_edge_feature" ],
+    [ "RelannisNodeFeature", "classannis_1_1model_1_1_relannis_node_feature.html", "classannis_1_1model_1_1_relannis_node_feature" ]
 ];

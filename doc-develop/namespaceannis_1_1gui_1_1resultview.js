@@ -1,7 +1,7 @@
 var namespaceannis_1_1gui_1_1resultview =
 [
-    [ "ResultViewPanel", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel.html", "classannis_1_1gui_1_1resultview_1_1ResultViewPanel" ],
-    [ "SingleResultPanel", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel.html", "classannis_1_1gui_1_1resultview_1_1SingleResultPanel" ],
-    [ "VisualizerContextChanger", "interfaceannis_1_1gui_1_1resultview_1_1VisualizerContextChanger.html", "interfaceannis_1_1gui_1_1resultview_1_1VisualizerContextChanger" ],
-    [ "VisualizerPanel", "classannis_1_1gui_1_1resultview_1_1VisualizerPanel.html", "classannis_1_1gui_1_1resultview_1_1VisualizerPanel" ]
+    [ "ResultViewPanel", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html", "classannis_1_1gui_1_1resultview_1_1_result_view_panel" ],
+    [ "SingleResultPanel", "classannis_1_1gui_1_1resultview_1_1_single_result_panel.html", "classannis_1_1gui_1_1resultview_1_1_single_result_panel" ],
+    [ "VisualizerContextChanger", "interfaceannis_1_1gui_1_1resultview_1_1_visualizer_context_changer.html", "interfaceannis_1_1gui_1_1resultview_1_1_visualizer_context_changer" ],
+    [ "VisualizerPanel", "classannis_1_1gui_1_1resultview_1_1_visualizer_panel.html", "classannis_1_1gui_1_1resultview_1_1_visualizer_panel" ]
 ];
