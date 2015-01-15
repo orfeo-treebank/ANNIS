@@ -1,7 +1,7 @@
 var classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel =
 [
     [ "CSVResource", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel_1_1CSVResource.html", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel_1_1CSVResource" ],
-    [ "IgnoreCaseComparator", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel_1_1IgnoreCaseComparator.html", null ],
+    [ "IgnoreCaseComparator", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel_1_1IgnoreCaseComparator.html", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel_1_1IgnoreCaseComparator" ],
     [ "FrequencyResultPanel", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel.html#a97d03e57fc7b2ec080fedfb2ce6de408", null ],
     [ "addLexicalSort", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel.html#a72e16c1431e1ce6f71a45a94162c45b3", null ],
     [ "createFieldsString", "classannis_1_1gui_1_1frequency_1_1FrequencyResultPanel.html#aaad1440dd8bde43a275d23f07409c5e1", null ],

@@ -2,6 +2,7 @@ var namespaceannis_1_1libgui =
 [
     [ "media", "namespaceannis_1_1libgui_1_1media.html", "namespaceannis_1_1libgui_1_1media" ],
     [ "visualizers", "namespaceannis_1_1libgui_1_1visualizers.html", "namespaceannis_1_1libgui_1_1visualizers" ],
+    [ "AnnisBaseUI", "classannis_1_1libgui_1_1AnnisBaseUI.html", "classannis_1_1libgui_1_1AnnisBaseUI" ],
     [ "AnnisUser", "classannis_1_1libgui_1_1AnnisUser.html", "classannis_1_1libgui_1_1AnnisUser" ],
     [ "CorpusSet", "classannis_1_1libgui_1_1CorpusSet.html", "classannis_1_1libgui_1_1CorpusSet" ],
     [ "Helper", "classannis_1_1libgui_1_1Helper.html", "classannis_1_1libgui_1_1Helper" ],

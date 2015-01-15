@@ -17,15 +17,16 @@ var searchData=
   ['token',['Token',['../classannis_1_1visualizers_1_1iframe_1_1partitur_1_1PartiturParser_1_1Token.html',1,'annis::visualizers::iframe::partitur::PartiturParser']]],
   ['tokenmatcher',['TokenMatcher',['../classannis_1_1visualizers_1_1htmlvis_1_1TokenMatcher.html',1,'annis::visualizers::htmlvis']]],
   ['tooltipgenerator',['TooltipGenerator',['../classannis_1_1gui_1_1controlpanel_1_1CorpusListPanel_1_1TooltipGenerator.html',1,'annis::gui::controlpanel::CorpusListPanel']]],
+  ['transient',['Transient',['../interfaceannis_1_1model_1_1DataObject_1_1Transient.html',1,'annis::model::DataObject']]],
   ['transitiveprecedenceoptimizer',['TransitivePrecedenceOptimizer',['../classannis_1_1ql_1_1parser_1_1TransitivePrecedenceOptimizer.html',1,'annis::ql::parser']]],
   ['traverse',['Traverse',['../classannis_1_1visualizers_1_1component_1_1gridtree_1_1GridTreeVisualizer_1_1Traverse.html',1,'annis::visualizers::component::gridtree::GridTreeVisualizer']]],
   ['treeelementlabeler',['TreeElementLabeler',['../interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementLabeler.html',1,'annis::visualizers::component::tree']]],
   ['treeelementstyler',['TreeElementStyler',['../interfaceannis_1_1visualizers_1_1component_1_1tree_1_1TreeElementStyler.html',1,'annis::visualizers::component::tree']]],
-  ['treelayoutdata',['TreeLayoutData',['../classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter_3_01T_01extends_01GraphicsItem_01_4_1_1TreeLayoutData.html',1,'annis::visualizers::component::tree::ConstituentLayouter&lt; T extends GraphicsItem &gt;']]],
+  ['treelayoutdata',['TreeLayoutData',['../classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter_1_1TreeLayoutData.html',1,'annis::visualizers::component::tree::ConstituentLayouter']]],
   ['treesetconverter',['TreeSetConverter',['../classannis_1_1gui_1_1admin_1_1converter_1_1TreeSetConverter.html',1,'annis::gui::admin::converter']]],
   ['treferent',['TReferent',['../classannis_1_1visualizers_1_1iframe_1_1CorefVisualizer_1_1TReferent.html',1,'annis::visualizers::iframe::CorefVisualizer']]],
   ['tutorialpanel',['TutorialPanel',['../classannis_1_1gui_1_1tutorial_1_1TutorialPanel.html',1,'annis::gui::tutorial']]],
+  ['type',['Type',['../enumannis_1_1service_1_1objects_1_1AnnisAttribute_1_1Type.html',1,'annis::service::objects::AnnisAttribute']]],
   ['type',['Type',['../enumannis_1_1model_1_1QueryNode_1_1Type.html',1,'annis::model::QueryNode']]],
-  ['type',['Type',['../enumannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter_1_1Type.html',1,'annis::visualizers::htmlvis::SpanHTMLOutputter']]],
-  ['type',['Type',['../enumannis_1_1service_1_1objects_1_1AnnisAttribute_1_1Type.html',1,'annis::service::objects::AnnisAttribute']]]
+  ['type',['Type',['../enumannis_1_1visualizers_1_1htmlvis_1_1SpanHTMLOutputter_1_1Type.html',1,'annis::visualizers::htmlvis::SpanHTMLOutputter']]]
 ];

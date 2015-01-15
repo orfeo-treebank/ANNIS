@@ -1,6 +1,7 @@
 var classannis_1_1gui_1_1components_1_1NavigateableSinglePage =
 [
     [ "IDSelectionCommand", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IDSelectionCommand.html", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IDSelectionCommand" ],
+    [ "IFrameComponent", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IFrameComponent.html", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IFrameComponent" ],
     [ "NavigateableSinglePage", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage.html#aff1c3857b1183af09cf9706a3059d2af", null ],
     [ "createItem", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage.html#a1b2b0ff68c755d3cbf8a1b63e07e8d14", null ],
     [ "createMenubarFromHTML", "classannis_1_1gui_1_1components_1_1NavigateableSinglePage.html#a8f139a86a6878ba3e04e11cf3f66e0b3", null ],

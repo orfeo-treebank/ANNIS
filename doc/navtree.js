@@ -1,63 +1,3 @@
-var NAVTREE =
-[
-  [ "ANNIS", "index.html", [
-    [ "Administration", "admin.html", "admin" ],
-    [ "Public REST API", "api.html", [
-      [ "Authentification ", "api.html#api-authentification", null ],
-      [ "Available APIs ", "api.html#api-available-list", null ]
-    ] ],
-    [ "Developing", "dev.html", "dev" ],
-    [ "Deprecated List", "deprecated.html", null ],
-    [ "Packages", null, [
-      [ "Packages", "namespaces.html", "namespaces" ]
-    ] ],
-    [ "Classes", null, [
-      [ "Class List", "annotated.html", "annotated" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ]
-      ] ]
-    ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ]
-    ] ]
-  ] ]
-];
-
-var NAVTREEINDEX =
-[
-"ANNISFontIcon_8java.html",
-"MediaControllerImpl_8java.html",
-"classannis_1_1AnnisBaseRunner.html#aa2c5fe095e874236db86dd1c34dbcdd5",
-"classannis_1_1administration_1_1CorpusAdministration.html#ac7e49703ff239e6793e9919ef93f4791",
-"classannis_1_1gui_1_1ExportPanel.html#a120804a0936b6994d805b10295edc9c6",
-"classannis_1_1gui_1_1admin_1_1ImportPanel.html#a5ca5647f971d9d49be33431337557e88",
-"classannis_1_1gui_1_1components_1_1HelpButton_3_01T_01_4.html#a7ec3e75981cfb802bba223b9f4f267d5",
-"classannis_1_1gui_1_1docbrowser_1_1DocBrowserController_1_1DocVisualizerFetcher.html#a8c036b7e96ba76e05e2a0fc7b23d6bc9",
-"classannis_1_1gui_1_1flatquerybuilder_1_1ReducingStringComparator.html#a2ada1242d336d957edf354959af029dc",
-"classannis_1_1gui_1_1querybuilder_1_1NodeWindow.html#a3448afccf1fd74c65d5b626813710eb5",
-"classannis_1_1gui_1_1resultview_1_1SingleResultPanel_1_1MinMax.html",
-"classannis_1_1gui_1_1widgets_1_1gwt_1_1client_1_1ui_1_1VJITWrapper.html#af8e03be7163aa012bd1fd4afadf62eab",
-"classannis_1_1model_1_1Annotation.html#a96c604650ae618588022fc0af8a9ad48",
-"classannis_1_1model_1_1RelannisNodeFeature.html#aff78be022690be41041f9f79eff2d585",
-"classannis_1_1resolver_1_1ResolverEntry.html#ae544b4ca05b273361ef1821703c5be65",
-"classannis_1_1service_1_1objects_1_1FrequencyTable.html#ab323e0883d499f26bcdcae74909f0bc6",
-"classannis_1_1sqlgen_1_1AomAnnotateExtractor_1_1ComponentEntry.html#a27688c1fbb71a7f7e13e202d5f442b0f",
-"classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#a731929094b4ec6e3d5f31c411dc2be08",
-"classannis_1_1sqlgen_1_1model_1_1Precedence.html#a6ff704571cbb3925535c5ef0590941a8",
-"classannis_1_1visualizers_1_1component_1_1pdf_1_1PDFFullVisualizer.html#a4032f472f74e52d72fe03fcf19b5b86b",
-"classannis_1_1visualizers_1_1component_1_1tree_1_1TigerTreeVisualizer_1_1DefaultStyler.html#a9663e1c24697b223b77d1a2d5e7f5c0f",
-"classannis_1_1visualizers_1_1iframe_1_1partitur_1_1DetectHoles.html",
-"enumannis_1_1gui_1_1querybuilder_1_1AQLOperator.html#aaf2b38c2c4c07d411f7ecc990d1d0e9c",
-"interfaceannis_1_1dao_1_1AnnisDao.html#a088b699c54ba03b427e4fd7d4f78cb6a",
-"interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html#ac3562bbb45147ab918fa4fb8405e3686"
-];
-
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
 var navTreeSubIndices = new Array();
 
 function getData(varName)
@@ -165,7 +105,7 @@ function createIndent(o,domNode,node,level)
     node.expandToggle.onclick = function() {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
-        node.plus_img.src = node.relpath+"ftv2pnode.png";
+        node.plus_img.src = node.relpath+"arrowright.png";
         node.expanded = false;
       } else {
         expandNode(o, node, false, false);
@@ -173,7 +113,7 @@ function createIndent(o,domNode,node,level)
     }
     node.expandToggle.appendChild(imgNode);
     domNode.appendChild(node.expandToggle);
-    imgNode.src = node.relpath+"ftv2pnode.png";
+    imgNode.src = node.relpath+"arrowright.png";
   } else {
     var span = document.createElement("span");
     span.style.display = 'inline-block';
@@ -329,9 +269,9 @@ function expandNode(o, node, imm, showRoot)
         $(node.getChildrenUL()).slideDown("fast");
       }
       if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       }
       node.expanded = true;
     }
@@ -401,11 +341,7 @@ function showNode(o, node, index, hash)
         getNode(o, node);
       }
       $(node.getChildrenUL()).css({'display':'block'});
-      if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
-      } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
-      }
+      node.plus_img.src = node.relpath+"arrowdown.png";
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
       if (index+1<o.breadcrumbs.length) {
@@ -543,7 +479,7 @@ function initNavTree(toroot,relpath)
   o.node.expanded = false;
   o.node.isLast = true;
   o.node.plus_img = document.createElement("img");
-  o.node.plus_img.src = relpath+"ftv2pnode.png";
+  o.node.plus_img.src = relpath+"arrowright.png";
   o.node.plus_img.width = 16;
   o.node.plus_img.height = 22;
 

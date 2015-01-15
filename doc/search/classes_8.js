@@ -2,6 +2,7 @@ var searchData=
 [
   ['identical',['Identical',['../classannis_1_1sqlgen_1_1model_1_1Identical.html',1,'annis::sqlgen::model']]],
   ['idselectioncommand',['IDSelectionCommand',['../classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IDSelectionCommand.html',1,'annis::gui::components::NavigateableSinglePage']]],
+  ['iframecomponent',['IFrameComponent',['../classannis_1_1gui_1_1components_1_1NavigateableSinglePage_1_1IFrameComponent.html',1,'annis::gui::components::NavigateableSinglePage']]],
   ['iframeresource',['IFrameResource',['../classannis_1_1libgui_1_1visualizers_1_1IFrameResource.html',1,'annis::libgui::visualizers']]],
   ['iframeresourcemap',['IFrameResourceMap',['../classannis_1_1libgui_1_1visualizers_1_1IFrameResourceMap.html',1,'annis::libgui::visualizers']]],
   ['iframestate',['IframeState',['../classannis_1_1gui_1_1components_1_1IframeState.html',1,'annis::gui::components']]],
@@ -11,6 +12,7 @@ var searchData=
   ['importdialogworker',['ImportDialogWorker',['../classde_1_1hu__berlin_1_1german_1_1korpling_1_1annis_1_1kickstarter_1_1ImportDialog_1_1ImportDialogWorker.html',1,'de::hu_berlin::german::korpling::annis::kickstarter::ImportDialog']]],
   ['importjob',['ImportJob',['../classannis_1_1service_1_1objects_1_1ImportJob.html',1,'annis::service::objects']]],
   ['importpanel',['ImportPanel',['../classannis_1_1gui_1_1admin_1_1ImportPanel.html',1,'annis::gui::admin']]],
+  ['importstatsimpl',['ImportStatsImpl',['../classannis_1_1administration_1_1CorpusAdministration_1_1ImportStatsImpl.html',1,'annis::administration::CorpusAdministration']]],
   ['importstatus',['ImportStatus',['../interfaceannis_1_1administration_1_1ImportStatus.html',1,'annis::administration']]],
   ['importworker',['ImportWorker',['../classannis_1_1service_1_1internal_1_1ImportWorker.html',1,'annis::service::internal']]],
   ['inclusion',['Inclusion',['../classannis_1_1sqlgen_1_1model_1_1Inclusion.html',1,'annis::sqlgen::model']]],

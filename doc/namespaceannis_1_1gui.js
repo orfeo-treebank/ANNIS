@@ -19,6 +19,7 @@ var namespaceannis_1_1gui =
     [ "util", "namespaceannis_1_1gui_1_1util.html", "namespaceannis_1_1gui_1_1util" ],
     [ "widgets", "namespaceannis_1_1gui_1_1widgets.html", "namespaceannis_1_1gui_1_1widgets" ],
     [ "AboutWindow", "classannis_1_1gui_1_1AboutWindow.html", "classannis_1_1gui_1_1AboutWindow" ],
+    [ "AdminUI", "classannis_1_1gui_1_1AdminUI.html", "classannis_1_1gui_1_1AdminUI" ],
     [ "CitationLinkGenerator", "classannis_1_1gui_1_1CitationLinkGenerator.html", "classannis_1_1gui_1_1CitationLinkGenerator" ],
     [ "CitationWindow", "classannis_1_1gui_1_1CitationWindow.html", "classannis_1_1gui_1_1CitationWindow" ],
     [ "CorpusBrowserPanel", "classannis_1_1gui_1_1CorpusBrowserPanel.html", "classannis_1_1gui_1_1CorpusBrowserPanel" ],
@@ -35,6 +36,7 @@ var namespaceannis_1_1gui =
     [ "MetaDataPanel", "classannis_1_1gui_1_1MetaDataPanel.html", "classannis_1_1gui_1_1MetaDataPanel" ],
     [ "QueryController", "classannis_1_1gui_1_1QueryController.html", "classannis_1_1gui_1_1QueryController" ],
     [ "ReportBugWindow", "classannis_1_1gui_1_1ReportBugWindow.html", "classannis_1_1gui_1_1ReportBugWindow" ],
+    [ "SearchUI", "classannis_1_1gui_1_1SearchUI.html", "classannis_1_1gui_1_1SearchUI" ],
     [ "ServiceQueryException", "classannis_1_1gui_1_1ServiceQueryException.html", "classannis_1_1gui_1_1ServiceQueryException" ],
     [ "Sidebar", "interfaceannis_1_1gui_1_1Sidebar.html", "interfaceannis_1_1gui_1_1Sidebar" ],
     [ "SidebarState", "enumannis_1_1gui_1_1SidebarState.html", "enumannis_1_1gui_1_1SidebarState" ]

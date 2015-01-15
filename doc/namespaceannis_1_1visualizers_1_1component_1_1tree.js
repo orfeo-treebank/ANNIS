@@ -2,8 +2,8 @@ var namespaceannis_1_1visualizers_1_1component_1_1tree =
 [
     [ "backends", "namespaceannis_1_1visualizers_1_1component_1_1tree_1_1backends.html", "namespaceannis_1_1visualizers_1_1component_1_1tree_1_1backends" ],
     [ "AnnisGraphTools", "classannis_1_1visualizers_1_1component_1_1tree_1_1AnnisGraphTools.html", "classannis_1_1visualizers_1_1component_1_1tree_1_1AnnisGraphTools" ],
-    [ "ConstituentLayouter< T extends GraphicsItem >", "classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter_3_01T_01extends_01GraphicsItem_01_4.html", "classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter_3_01T_01extends_01GraphicsItem_01_4" ],
-    [ "GraphicsBackend< T extends GraphicsItem >", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend_3_01T_01extends_01GraphicsItem_01_4.html", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend_3_01T_01extends_01GraphicsItem_01_4" ],
+    [ "ConstituentLayouter", "classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter.html", "classannis_1_1visualizers_1_1component_1_1tree_1_1ConstituentLayouter" ],
+    [ "GraphicsBackend", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend.html", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsBackend" ],
     [ "GraphicsItem", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem.html", "interfaceannis_1_1visualizers_1_1component_1_1tree_1_1GraphicsItem" ],
     [ "HorizontalOrientation", "enumannis_1_1visualizers_1_1component_1_1tree_1_1HorizontalOrientation.html", "enumannis_1_1visualizers_1_1component_1_1tree_1_1HorizontalOrientation" ],
     [ "LayoutOptions", "classannis_1_1visualizers_1_1component_1_1tree_1_1LayoutOptions.html", "classannis_1_1visualizers_1_1component_1_1tree_1_1LayoutOptions" ],

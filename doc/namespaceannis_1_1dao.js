@@ -7,7 +7,7 @@ var namespaceannis_1_1dao =
     [ "ListCorpusByNameDaoHelper", "classannis_1_1dao_1_1ListCorpusByNameDaoHelper.html", "classannis_1_1dao_1_1ListCorpusByNameDaoHelper" ],
     [ "MetaDataFilter", "classannis_1_1dao_1_1MetaDataFilter.html", "classannis_1_1dao_1_1MetaDataFilter" ],
     [ "ResolverDaoHelper", "classannis_1_1dao_1_1ResolverDaoHelper.html", "classannis_1_1dao_1_1ResolverDaoHelper" ],
-    [ "ResultSetConverter< T >", "interfaceannis_1_1dao_1_1ResultSetConverter_3_01T_01_4.html", "interfaceannis_1_1dao_1_1ResultSetConverter_3_01T_01_4" ],
+    [ "ResultSetConverter", "interfaceannis_1_1dao_1_1ResultSetConverter.html", "interfaceannis_1_1dao_1_1ResultSetConverter" ],
     [ "ScriptFileSqlSessionModifier", "classannis_1_1dao_1_1ScriptFileSqlSessionModifier.html", "classannis_1_1dao_1_1ScriptFileSqlSessionModifier" ],
     [ "SpringAnnisDao", "classannis_1_1dao_1_1SpringAnnisDao.html", "classannis_1_1dao_1_1SpringAnnisDao" ],
     [ "SqlSessionModifier", "interfaceannis_1_1dao_1_1SqlSessionModifier.html", "interfaceannis_1_1dao_1_1SqlSessionModifier" ]

@@ -1,7 +1,7 @@
 var classannis_1_1sqlgen_1_1SaltAnnotateExtractor =
 [
     [ "ComponentEntry", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1ComponentEntry.html", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1ComponentEntry" ],
-    [ "FastInverseMap< KeyType, ValueType >", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1FastInverseMap_3_01KeyType_00_01ValueType_01_4.html", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1FastInverseMap_3_01KeyType_00_01ValueType_01_4" ],
+    [ "FastInverseMap", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1FastInverseMap.html", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1FastInverseMap" ],
     [ "RankID", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1RankID.html", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor_1_1RankID" ],
     [ "SaltAnnotateExtractor", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#aa70af49b09cb04ef69aa21cbee0c2bec", null ],
     [ "addEdgeAnnotations", "classannis_1_1sqlgen_1_1SaltAnnotateExtractor.html#a77a0821e68154b5cf6943be8f4190f48", null ],
