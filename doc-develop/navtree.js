@@ -1,63 +1,3 @@
-var NAVTREE =
-[
-  [ "ANNIS", "index.html", [
-    [ "Administration", "admin.html", "admin" ],
-    [ "Public REST API", "api.html", [
-      [ "Authentification ", "api.html#api-authentification", null ],
-      [ "Available APIs ", "api.html#api-available-list", null ]
-    ] ],
-    [ "Developing", "dev.html", "dev" ],
-    [ "Deprecated List", "deprecated.html", null ],
-    [ "Packages", null, [
-      [ "Packages", "namespaces.html", "namespaces" ]
-    ] ],
-    [ "Classes", null, [
-      [ "Class List", "annotated.html", "annotated" ],
-      [ "Class Index", "classes.html", null ],
-      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
-      [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
-        [ "Variables", "functions_vars.html", "functions_vars" ]
-      ] ]
-    ] ],
-    [ "Files", null, [
-      [ "File List", "files.html", "files" ]
-    ] ]
-  ] ]
-];
-
-var NAVTREEINDEX =
-[
-"_a_n_n_i_s_font_icon_8java.html",
-"_media_controller_8java.html",
-"classannis_1_1_annis_base_runner.html#aa2c5fe095e874236db86dd1c34dbcdd5",
-"classannis_1_1administration_1_1_corpus_administration.html#a0bc7da586c63d1599ad2d99dfaf52b99",
-"classannis_1_1gui_1_1_example_queries_panel_1_1_show_corpus_browser.html",
-"classannis_1_1gui_1_1admin_1_1_import_panel.html#a140c314498e91b9f09940003c24025c1",
-"classannis_1_1gui_1_1components_1_1_help_button_3_01_t_01_4.html#a6498522b09015b76472279cf5025c63a",
-"classannis_1_1gui_1_1docbrowser_1_1_doc_browser_controller_1_1_doc_visualizer_fetcher.html#a467cbd579fd1ad4514102627a108d098",
-"classannis_1_1gui_1_1flatquerybuilder_1_1_meta_box.html#af377aea37fb2e4babecd8eaa938b0f27",
-"classannis_1_1gui_1_1querybuilder_1_1_edge_window_1_1_operator_value_change_listener.html#a5821bdfc9ec0aa99145c43eeecf18e1c",
-"classannis_1_1gui_1_1resultview_1_1_single_result_panel_1_1_context_change_listener.html#af4178aecdca3eeeff363699c7be938c7",
-"classannis_1_1gui_1_1widgets_1_1gwt_1_1client_1_1ui_1_1_v_j_i_t_wrapper.html#a795f6d29950ee145ee9567b88517cd5b",
-"classannis_1_1model_1_1_annotation.html#a57ad3b1fa8973122a562c31d6e93f17e",
-"classannis_1_1model_1_1_relannis_node_feature.html#acea608660173958b805902f54f6e8ab3",
-"classannis_1_1resolver_1_1_resolver_entry.html#a8f5445535247d522588bcb6c09f4c9c7",
-"classannis_1_1service_1_1objects_1_1_corpus_config_map.html#a60904f739a95252931b96ffca33aa4e0",
-"classannis_1_1sqlgen_1_1_aom_annotate_extractor.html#a1f02afc21ba72e8a518bac674c9a34fd",
-"classannis_1_1sqlgen_1_1_salt_annotate_extractor.html",
-"classannis_1_1sqlgen_1_1model_1_1_overlap.html#a4ea7be32bfe5e719ddea20d1e2595e32",
-"classannis_1_1visualizers_1_1component_1_1kwic_1_1_k_w_i_c_component.html#ac6752d732758c44545fa2acc23b66e92",
-"classannis_1_1visualizers_1_1component_1_1tree_1_1_tiger_tree_visualizer_1_1_default_labeler.html#a3a41409d6189bc65251248544caa1f73",
-"classannis_1_1visualizers_1_1iframe_1_1dependency_1_1_vakyartha_dependency_tree.html#a95766d8f0c8b04f936fb84c84bb5bd07",
-"enumannis_1_1gui_1_1flatquerybuilder_1_1_value_field_1_1_value_mode.html",
-"interfaceannis_1_1administration_1_1_import_status.html#a494527a349405c60b4e7b6145bac1ff1",
-"interfaceannis_1_1visualizers_1_1component_1_1kwic_1_1_k_w_i_c_interface.html"
-];
-
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
 var navTreeSubIndices = new Array();
 
 function getData(varName)
@@ -165,7 +105,7 @@ function createIndent(o,domNode,node,level)
     node.expandToggle.onclick = function() {
       if (node.expanded) {
         $(node.getChildrenUL()).slideUp("fast");
-        node.plus_img.src = node.relpath+"ftv2pnode.png";
+        node.plus_img.src = node.relpath+"arrowright.png";
         node.expanded = false;
       } else {
         expandNode(o, node, false, false);
@@ -173,7 +113,7 @@ function createIndent(o,domNode,node,level)
     }
     node.expandToggle.appendChild(imgNode);
     domNode.appendChild(node.expandToggle);
-    imgNode.src = node.relpath+"ftv2pnode.png";
+    imgNode.src = node.relpath+"arrowright.png";
   } else {
     var span = document.createElement("span");
     span.style.display = 'inline-block';
@@ -329,9 +269,9 @@ function expandNode(o, node, imm, showRoot)
         $(node.getChildrenUL()).slideDown("fast");
       }
       if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
+        node.plus_img.src = node.relpath+"arrowdown.png";
       }
       node.expanded = true;
     }
@@ -401,11 +341,7 @@ function showNode(o, node, index, hash)
         getNode(o, node);
       }
       $(node.getChildrenUL()).css({'display':'block'});
-      if (node.isLast) {
-        node.plus_img.src = node.relpath+"ftv2mlastnode.png";
-      } else {
-        node.plus_img.src = node.relpath+"ftv2mnode.png";
-      }
+      node.plus_img.src = node.relpath+"arrowdown.png";
       node.expanded = true;
       var n = node.children[o.breadcrumbs[index]];
       if (index+1<o.breadcrumbs.length) {
@@ -543,7 +479,7 @@ function initNavTree(toroot,relpath)
   o.node.expanded = false;
   o.node.isLast = true;
   o.node.plus_img = document.createElement("img");
-  o.node.plus_img.src = relpath+"ftv2pnode.png";
+  o.node.plus_img.src = relpath+"arrowright.png";
   o.node.plus_img.width = 16;
   o.node.plus_img.height = 22;
 

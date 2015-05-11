@@ -33,6 +33,7 @@ var searchData=
   ['spanbox_2ejava',['SpanBox.java',['../_span_box_8java.html',1,'']]],
   ['spanhtmloutputter_2ejava',['SpanHTMLOutputter.java',['../_span_h_t_m_l_outputter_8java.html',1,'']]],
   ['spanmatcher_2ejava',['SpanMatcher.java',['../_span_matcher_8java.html',1,'']]],
+  ['specificpagingcallback_2ejava',['SpecificPagingCallback.java',['../_specific_paging_callback_8java.html',1,'']]],
   ['springannisdao_2ejava',['SpringAnnisDao.java',['../_spring_annis_dao_8java.html',1,'']]],
   ['sqlconstraints_2ejava',['SqlConstraints.java',['../_sql_constraints_8java.html',1,'']]],
   ['sqlexceptionmapper_2ejava',['SQLExceptionMapper.java',['../_s_q_l_exception_mapper_8java.html',1,'']]],

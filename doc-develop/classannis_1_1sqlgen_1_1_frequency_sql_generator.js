@@ -1,5 +1,6 @@
 var classannis_1_1sqlgen_1_1_frequency_sql_generator =
 [
+    [ "conditionsForEntries", "classannis_1_1sqlgen_1_1_frequency_sql_generator.html#a8360484733f0a1fa35aa957581ed8da8", null ],
     [ "extractData", "classannis_1_1sqlgen_1_1_frequency_sql_generator.html#a6c9ce1316bad604d60289bcb3e402153", null ],
     [ "fromClause", "classannis_1_1sqlgen_1_1_frequency_sql_generator.html#a19ea7c5109d29b01ce6070d75bf5b074", null ],
     [ "getSolutionSqlGenerator", "classannis_1_1sqlgen_1_1_frequency_sql_generator.html#a3d02e95d26e6e81f533186658155305a", null ],

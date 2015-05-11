@@ -12,8 +12,6 @@ var classannis_1_1model_1_1_relannis_node_feature =
     [ "getSegName", "classannis_1_1model_1_1_relannis_node_feature.html#a6fd5e60af3e51adaa6d50debaf6ceb6d", null ],
     [ "getTextRef", "classannis_1_1model_1_1_relannis_node_feature.html#a2ab80de2c19bec8b2763ad2f228655e2", null ],
     [ "getTokenIndex", "classannis_1_1model_1_1_relannis_node_feature.html#a9f7fa4d88e5e4e8166222f9d69409cdc", null ],
-    [ "isContinuous", "classannis_1_1model_1_1_relannis_node_feature.html#aa2c6ee220a7ab676a136ebc3193b7bd2", null ],
-    [ "setContinuous", "classannis_1_1model_1_1_relannis_node_feature.html#af7cb763546560bcb4c39b1079d6fd9a9", null ],
     [ "setCorpusRef", "classannis_1_1model_1_1_relannis_node_feature.html#a0834baa429edb683a7f0cec38c753b42", null ],
     [ "setInternalID", "classannis_1_1model_1_1_relannis_node_feature.html#a451bafd1aede87fc7d14076db71aaa4a", null ],
     [ "setLeft", "classannis_1_1model_1_1_relannis_node_feature.html#a71e8ffd30ec8cfa73b9b00f9e3873113", null ],

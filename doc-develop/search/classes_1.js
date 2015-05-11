@@ -1,7 +1,6 @@
 var searchData=
 [
   ['backgroundjob',['BackgroundJob',['../classannis_1_1gui_1_1resultview_1_1_visualizer_panel_1_1_background_job.html',1,'annis::gui::resultview::VisualizerPanel']]],
-  ['backgroundjob',['BackgroundJob',['../classannis_1_1gui_1_1_export_panel_1_1_background_job.html',1,'annis::gui::ExportPanel']]],
   ['basicauthoranonymousfilter',['BasicAuthOrAnonymousFilter',['../classannis_1_1security_1_1_basic_auth_or_anonymous_filter.html',1,'annis::security']]],
   ['benchmark',['Benchmark',['../classannis_1_1_annis_runner_1_1_benchmark.html',1,'annis::AnnisRunner']]],
   ['binaryimporthelper',['BinaryImportHelper',['../classannis_1_1administration_1_1_binary_import_helper.html',1,'annis::administration']]],

@@ -1,6 +1,6 @@
 var classannis_1_1utils_1_1_legacy_graph_converter =
 [
-    [ "addEdge", "classannis_1_1utils_1_1_legacy_graph_converter.html#a90ec27ac35a83fa5fd07e9e8043c89e6", null ],
+    [ "addEdge", "classannis_1_1utils_1_1_legacy_graph_converter.html#a645279aef2eba64fb938db4ebfa24578", null ],
     [ "convertToAnnotationGraph", "classannis_1_1utils_1_1_legacy_graph_converter.html#a62195e53502666a40b22282a3013e278", null ],
     [ "convertToAnnotationGraph", "classannis_1_1utils_1_1_legacy_graph_converter.html#ab340cd67d1a4d7c4957b56958e25c2f2", null ],
     [ "convertToAOM", "classannis_1_1utils_1_1_legacy_graph_converter.html#ae52c7f5b6111bc1688e2851115157d46", null ],

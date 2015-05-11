@@ -1,7 +1,7 @@
 var classannis_1_1gui_1_1_report_bug_window =
 [
     [ "BugReport", "classannis_1_1gui_1_1_report_bug_window_1_1_bug_report.html", "classannis_1_1gui_1_1_report_bug_window_1_1_bug_report" ],
-    [ "ReportFormLayout", "classannis_1_1gui_1_1_report_bug_window_1_1_report_form_layout.html", null ],
+    [ "ReportFormLayout", "classannis_1_1gui_1_1_report_bug_window_1_1_report_form_layout.html", "classannis_1_1gui_1_1_report_bug_window_1_1_report_form_layout" ],
     [ "ScreenDumpStreamSource", "classannis_1_1gui_1_1_report_bug_window_1_1_screen_dump_stream_source.html", "classannis_1_1gui_1_1_report_bug_window_1_1_screen_dump_stream_source" ],
     [ "ShowScreenshotClickListener", "classannis_1_1gui_1_1_report_bug_window_1_1_show_screenshot_click_listener.html", "classannis_1_1gui_1_1_report_bug_window_1_1_show_screenshot_click_listener" ],
     [ "ReportBugWindow", "classannis_1_1gui_1_1_report_bug_window.html#abb228fb56edf89fee6dd82533a61ac50", null ],

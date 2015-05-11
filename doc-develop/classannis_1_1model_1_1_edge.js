@@ -8,6 +8,7 @@ var classannis_1_1model_1_1_edge =
     [ "getComponentID", "classannis_1_1model_1_1_edge.html#af5e90c25b77aa0ee0bf79e37a203299c", null ],
     [ "getDestination", "classannis_1_1model_1_1_edge.html#a8468f62888aa6c6461cbc88dfb30e875", null ],
     [ "getEdgeType", "classannis_1_1model_1_1_edge.html#a695f89e34a3f1bf25fb0fbe61ffc98fe", null ],
+    [ "getId", "classannis_1_1model_1_1_edge.html#a2e3d363313c6e345b6f1860519a60aaa", null ],
     [ "getName", "classannis_1_1model_1_1_edge.html#a836cadc39597753a907ad48fdb72bd2a", null ],
     [ "getNamespace", "classannis_1_1model_1_1_edge.html#ad6263c381ce3b96826021524eaaf6824", null ],
     [ "getPre", "classannis_1_1model_1_1_edge.html#a1446f35099c10c3597474eb3d7f5aaba", null ],
@@ -17,6 +18,7 @@ var classannis_1_1model_1_1_edge =
     [ "setComponentID", "classannis_1_1model_1_1_edge.html#ae518a9494d5c91cc673b4233b428f210", null ],
     [ "setDestination", "classannis_1_1model_1_1_edge.html#adf01f7621c3503aa1f3420b7fd6fe4e4", null ],
     [ "setEdgeType", "classannis_1_1model_1_1_edge.html#a74f1db3044de30006efbca7d9b3d1046", null ],
+    [ "setId", "classannis_1_1model_1_1_edge.html#abfa47ff7b99807c98ab67f3dbeca6953", null ],
     [ "setName", "classannis_1_1model_1_1_edge.html#a0a34bef56941ce37c0ef8b3fea184c9f", null ],
     [ "setNamespace", "classannis_1_1model_1_1_edge.html#a9a865a7e547100a3fda1f19b18c5d8a0", null ],
     [ "setPre", "classannis_1_1model_1_1_edge.html#a3eb0d9029a56c8e814734b81d078cd4f", null ],
@@ -26,6 +28,7 @@ var classannis_1_1model_1_1_edge =
     [ "componentID", "classannis_1_1model_1_1_edge.html#a33557dacf87054aa2cd7eedf76ec4fc7", null ],
     [ "destination", "classannis_1_1model_1_1_edge.html#ac5bcfc3feb0b11c8e555d44f4e92bb05", null ],
     [ "edgeType", "classannis_1_1model_1_1_edge.html#a9a34f063dcb5a2a0889adb211c57ee02", null ],
+    [ "id", "classannis_1_1model_1_1_edge.html#a6d29f9582e3180fdec7f39ca1ef442e2", null ],
     [ "name", "classannis_1_1model_1_1_edge.html#a39d3b2045bb984e31dab4e7b3f19920c", null ],
     [ "pre", "classannis_1_1model_1_1_edge.html#a8122e4f69c3991fd93317590656d25e9", null ],
     [ "source", "classannis_1_1model_1_1_edge.html#a2e7b3929c25c6b9895020c0fc7a3397b", null ]

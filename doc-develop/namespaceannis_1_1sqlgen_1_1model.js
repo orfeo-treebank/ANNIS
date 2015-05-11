@@ -7,6 +7,7 @@ var namespaceannis_1_1sqlgen_1_1model =
     [ "Inclusion", "classannis_1_1sqlgen_1_1model_1_1_inclusion.html", "classannis_1_1sqlgen_1_1model_1_1_inclusion" ],
     [ "Join", "classannis_1_1sqlgen_1_1model_1_1_join.html", "classannis_1_1sqlgen_1_1model_1_1_join" ],
     [ "LeftAlignment", "classannis_1_1sqlgen_1_1model_1_1_left_alignment.html", "classannis_1_1sqlgen_1_1model_1_1_left_alignment" ],
+    [ "LeftDominance", "classannis_1_1sqlgen_1_1model_1_1_left_dominance.html", "classannis_1_1sqlgen_1_1model_1_1_left_dominance" ],
     [ "LeftOverlap", "classannis_1_1sqlgen_1_1model_1_1_left_overlap.html", "classannis_1_1sqlgen_1_1model_1_1_left_overlap" ],
     [ "Near", "classannis_1_1sqlgen_1_1model_1_1_near.html", "classannis_1_1sqlgen_1_1model_1_1_near" ],
     [ "NonBindingJoin", "classannis_1_1sqlgen_1_1model_1_1_non_binding_join.html", "classannis_1_1sqlgen_1_1model_1_1_non_binding_join" ],
@@ -17,6 +18,8 @@ var namespaceannis_1_1sqlgen_1_1model =
     [ "RangedJoin", "classannis_1_1sqlgen_1_1model_1_1_ranged_join.html", "classannis_1_1sqlgen_1_1model_1_1_ranged_join" ],
     [ "RankTableJoin", "classannis_1_1sqlgen_1_1model_1_1_rank_table_join.html", "classannis_1_1sqlgen_1_1model_1_1_rank_table_join" ],
     [ "RightAlignment", "classannis_1_1sqlgen_1_1model_1_1_right_alignment.html", "classannis_1_1sqlgen_1_1model_1_1_right_alignment" ],
+    [ "RightDominance", "classannis_1_1sqlgen_1_1model_1_1_right_dominance.html", "classannis_1_1sqlgen_1_1model_1_1_right_dominance" ],
     [ "RightOverlap", "classannis_1_1sqlgen_1_1model_1_1_right_overlap.html", "classannis_1_1sqlgen_1_1model_1_1_right_overlap" ],
-    [ "SameSpan", "classannis_1_1sqlgen_1_1model_1_1_same_span.html", "classannis_1_1sqlgen_1_1model_1_1_same_span" ]
+    [ "SameSpan", "classannis_1_1sqlgen_1_1model_1_1_same_span.html", "classannis_1_1sqlgen_1_1model_1_1_same_span" ],
+    [ "Sibling", "classannis_1_1sqlgen_1_1model_1_1_sibling.html", "classannis_1_1sqlgen_1_1model_1_1_sibling" ]
 ];

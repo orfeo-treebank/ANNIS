@@ -20,12 +20,14 @@ var namespaceannis =
     [ "visualizers", "namespaceannis_1_1visualizers.html", "namespaceannis_1_1visualizers" ],
     [ "AnnisBaseRunner", "classannis_1_1_annis_base_runner.html", "classannis_1_1_annis_base_runner" ],
     [ "AnnisRunner", "classannis_1_1_annis_runner.html", "classannis_1_1_annis_runner" ],
+    [ "AnnisRunnerException", "classannis_1_1_annis_runner_exception.html", "classannis_1_1_annis_runner_exception" ],
     [ "AnnisXmlContextHelper", "classannis_1_1_annis_xml_context_helper.html", "classannis_1_1_annis_xml_context_helper" ],
     [ "CommonHelper", "classannis_1_1_common_helper.html", "classannis_1_1_common_helper" ],
     [ "CoveredTextsCalculator", "classannis_1_1_covered_texts_calculator.html", "classannis_1_1_covered_texts_calculator" ],
     [ "CSVHelper", "classannis_1_1_c_s_v_helper.html", "classannis_1_1_c_s_v_helper" ],
     [ "GraphHelper", "classannis_1_1_graph_helper.html", "classannis_1_1_graph_helper" ],
     [ "TableFormatter", "classannis_1_1_table_formatter.html", "classannis_1_1_table_formatter" ],
+    [ "UsageException", "classannis_1_1_usage_exception.html", "classannis_1_1_usage_exception" ],
     [ "VersionInfo", "classannis_1_1_version_info.html", "classannis_1_1_version_info" ],
     [ "WekaHelper", "classannis_1_1_weka_helper.html", "classannis_1_1_weka_helper" ]
 ];

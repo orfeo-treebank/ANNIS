@@ -12,6 +12,7 @@ var searchData=
   ['vgripdragcomponent_2ejava',['VGripDragComponent.java',['../_v_grip_drag_component_8java.html',1,'']]],
   ['videovisualizer_2ejava',['VideoVisualizer.java',['../_video_visualizer_8java.html',1,'']]],
   ['virtualkeyboard_2ejava',['VirtualKeyboard.java',['../_virtual_keyboard_8java.html',1,'']]],
+  ['virtualkeyboardcodeeditor_2ejava',['VirtualKeyboardCodeEditor.java',['../_virtual_keyboard_code_editor_8java.html',1,'']]],
   ['visparser_2ejava',['VisParser.java',['../_vis_parser_8java.html',1,'']]],
   ['visparserexception_2ejava',['VisParserException.java',['../_vis_parser_exception_8java.html',1,'']]],
   ['visualizationdefinition_2ejava',['VisualizationDefinition.java',['../_visualization_definition_8java.html',1,'']]],

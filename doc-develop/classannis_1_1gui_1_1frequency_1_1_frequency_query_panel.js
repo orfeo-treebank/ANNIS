@@ -1,12 +1,12 @@
 var classannis_1_1gui_1_1frequency_1_1_frequency_query_panel =
 [
-    [ "FrequencyQueryPanel", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a68314a6d5ef2c25a19e8a10d01b0018f", null ],
+    [ "FieldFactory", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel_1_1_field_factory.html", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel_1_1_field_factory" ],
+    [ "FrequencyQueryPanel", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a39969dfba5a59a25fdc6f07a88e5b1f8", null ],
     [ "createAutomaticEntriesForQuery", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a5598b5b1e53a835e3e0413e4748457ff", null ],
-    [ "createNewTableRow", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a44b4b21f7d8a2dc5cc0aa6b1b497608c", null ],
-    [ "executeFrequencyQuery", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a4f77ec9ca9e13f83d93164f4495e25ec", null ],
     [ "getAvailableMetaNames", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#acef9c49879646e428825ff4d2cd78542", null ],
     [ "notifiyQueryFinished", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#aad432058e60fb1bbd0c79be772450622", null ],
     [ "parseQuery", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a4d338973808184ac752449d96b9f47b9", null ],
+    [ "showResult", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a77967380146a73ccc147ea470156f14c", null ],
     [ "textChange", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a6c047f8005f6c5f28a59aacd9034769e", null ],
     [ "updateQueryInfo", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a006b889418795ecb37c5f44166e4e0df", null ],
     [ "btAdd", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#ace7ba39b3d57067a52c26214f5157c24", null ],
@@ -22,8 +22,9 @@ var classannis_1_1gui_1_1frequency_1_1_frequency_query_panel =
     [ "lblErrorOrMsg", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a9f023b929813fa72d0c302fdc139130a", null ],
     [ "log", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a6b76b15bcf326489db4e8fb07b40df23", null ],
     [ "metaNamesContainer", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a9707ecc17fe97f48c2aac037745a255e", null ],
+    [ "pbQuery", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#ae2bd7f9055c2ac6020b86aeca81a3d96", null ],
     [ "queryLayout", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#af1559f3af8adc4912f3601dc23e4d3d2", null ],
     [ "resultPanel", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a2da15a97c2b654708a00e532f31f6a9a", null ],
-    [ "selectedMetaData", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a1f21fb07247bf937697731b7477dbca4", null ],
+    [ "state", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#af8f175637f1acb969b56c5934f1154ee", null ],
     [ "tblFrequencyDefinition", "classannis_1_1gui_1_1frequency_1_1_frequency_query_panel.html#a5a839c3339273feb119c93220e764fad", null ]
 ];

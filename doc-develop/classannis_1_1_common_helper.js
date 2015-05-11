@@ -3,6 +3,7 @@ var classannis_1_1_common_helper =
     [ "checkSLayer", "classannis_1_1_common_helper.html#a5f0ba98f9ecbbffd2a81e28359e06eef", null ],
     [ "containsRTLText", "classannis_1_1_common_helper.html#a57a5336fc57f46822faf784d0a9fe644", null ],
     [ "createSNodeMapFromIDs", "classannis_1_1_common_helper.html#ad1b63b25cb4300c7990e578f276f4b50", null ],
+    [ "extractMatch", "classannis_1_1_common_helper.html#adb151addb85138f87da637cac8251a20", null ],
     [ "getCorpusPath", "classannis_1_1_common_helper.html#ad69feb705a1581b280b6a746aa0f2d47", null ],
     [ "getCorpusPath", "classannis_1_1_common_helper.html#a319db82d6875845db877fd5ac001fcb8", null ],
     [ "getSafeFileName", "classannis_1_1_common_helper.html#a95e8accc8ae1fa1adc6e591991ae1b90", null ],

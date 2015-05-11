@@ -1,7 +1,6 @@
 var namespaceannis_1_1gui_1_1admin =
 [
     [ "controller", "namespaceannis_1_1gui_1_1admin_1_1controller.html", "namespaceannis_1_1gui_1_1admin_1_1controller" ],
-    [ "converter", "namespaceannis_1_1gui_1_1admin_1_1converter.html", "namespaceannis_1_1gui_1_1admin_1_1converter" ],
     [ "model", "namespaceannis_1_1gui_1_1admin_1_1model.html", "namespaceannis_1_1gui_1_1admin_1_1model" ],
     [ "view", "namespaceannis_1_1gui_1_1admin_1_1view.html", "namespaceannis_1_1gui_1_1admin_1_1view" ],
     [ "CorpusAdminPanel", "classannis_1_1gui_1_1admin_1_1_corpus_admin_panel.html", "classannis_1_1gui_1_1admin_1_1_corpus_admin_panel" ],

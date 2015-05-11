@@ -1,7 +1,7 @@
 var classannis_1_1gui_1_1resultview_1_1_result_view_panel =
 [
     [ "MenuBaseTextCommand", "classannis_1_1gui_1_1resultview_1_1_result_view_panel_1_1_menu_base_text_command.html", "classannis_1_1gui_1_1resultview_1_1_result_view_panel_1_1_menu_base_text_command" ],
-    [ "ResultViewPanel", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a405519861cf1512831d4f09a8d2578e9", null ],
+    [ "ResultViewPanel", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ac8c88d18364577047a3864f179a73350", null ],
     [ "addQueryResult", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a4bdd90af5170d669fc5b951788faa575", null ],
     [ "createPanels", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a8ae0550f5cd8e5913e8ca3a977501480", null ],
     [ "getPaging", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ac134a1b1d36f29861045f1729983d973", null ],
@@ -25,6 +25,7 @@ var classannis_1_1gui_1_1resultview_1_1_result_view_panel =
     [ "currentQuery", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a0f33f606432574cdb512d62ac633e400", null ],
     [ "currentResults", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a6930579e852e500699be77f57c0da68a", null ],
     [ "FILESYSTEM_CACHE_RESULT", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a3ad094c48051019c764660119f5f2793", null ],
+    [ "initialQuery", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ad8d5098a803448d10ffcf1c05bee8efc", null ],
     [ "instanceConfig", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#acb9be7cd732823f19d7e6836b96ed31e", null ],
     [ "log", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ab47e39365b90559e3e170bd2405e3db1", null ],
     [ "MAPPING_HIDDEN_ANNOS", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a56684e460d0303320a2d99aa04c5287a", null ],
@@ -35,13 +36,12 @@ var classannis_1_1gui_1_1resultview_1_1_result_view_panel =
     [ "paging", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ae8d4b1fee6f7c8cd5ae4e6ceae31f328", null ],
     [ "projectQueue", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a0e08f1545d58e44bd530512128adf009", null ],
     [ "ps", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a4dbc66e3c8c704e78155d8b23da2394e", null ],
-    [ "queryId", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a7a24744769ad3c4e7218c9e0faed0c02", null ],
     [ "resultLayout", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a30f7f7393661f3a1a227fdfe8c2af3e3", null ],
     [ "resultPanelList", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#af157d9c63d2c62a825baed59b84c8d55", null ],
     [ "segmentationLayerSet", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a8cb6bbecbd304ac38ef55f04edd73bb1", null ],
     [ "segmentationName", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#af98d73226e8052a050acd84f76363286", null ],
     [ "selectedSegmentationLayer", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a82995aa59b59a521df7e1fdac5286dcf", null ],
-    [ "sui", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a47a34fd38a7f5cda045369fea82694d2", null ],
+    [ "sui", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ab9e16c6d5047933e6f8c431df4caeeb4", null ],
     [ "tokenAnnotationLevelSet", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#a21dbd7eb5a75e05c72610441b295053a", null ],
     [ "tokenAnnoVisible", "classannis_1_1gui_1_1resultview_1_1_result_view_panel.html#ac461a06402ae007c2757ee1d9f87b772", null ]
 ];

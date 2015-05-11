@@ -40,5 +40,6 @@ var dev =
         [ "root: \"#x:root\"", "dev-aql.html#dev-aql-root", null ]
       ] ]
     ] ],
+    [ "RelANNIS import format version 4.0", "dev-relannis4.html", null ],
     [ "Links to queries", "dev-querybyurl.html", null ]
 ];

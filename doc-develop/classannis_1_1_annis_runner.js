@@ -81,6 +81,7 @@ var classannis_1_1_annis_runner =
     [ "matrixSqlGenerator", "classannis_1_1_annis_runner.html#a407fe6825e510a02ff2be7752325a45b", null ],
     [ "metaDataFilter", "classannis_1_1_annis_runner.html#a2f25533be9ee1f98790dc04c18e6af4e", null ],
     [ "offset", "classannis_1_1_annis_runner.html#a6dfec773d97459397066e7771f14dc7c", null ],
+    [ "order", "classannis_1_1_annis_runner.html#abd34c89ee19aa8c211ba1d7e39568e48", null ],
     [ "queriesGenerator", "classannis_1_1_annis_runner.html#a96c610df19bb09cca530f1e1810956fd", null ],
     [ "right", "classannis_1_1_annis_runner.html#a62173ffeed10bbf21c99648cb4533db5", null ],
     [ "segmentationLayer", "classannis_1_1_annis_runner.html#a8137ef2a002dd246a99a0ddc6ed30c51", null ],

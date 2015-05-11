@@ -35,6 +35,8 @@ var classannis_1_1ql_1_1parser_1_1_join_listener =
     [ "exitAndExpr", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a04172d04a77d5bfd77de24f648621232", null ],
     [ "exitOperator", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a4908f0a5b79f4145ec0d0baddf472e4e", null ],
     [ "fromEdgeAnnotation", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a3336b65493aa9db555d4075afb134900", null ],
+    [ "getLayerName", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a7d73ef805728ae58e661f7732c2b8a07", null ],
+    [ "getLayerName", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a03a79f05cc1d90843a2bc383072f2dd4", null ],
     [ "join", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a0a8c37bba17ff7591c6c06ab12e952c1", null ],
     [ "node", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a284e1649388b0e42393d11c226a88659", null ],
     [ "nodeByDef", "classannis_1_1ql_1_1parser_1_1_join_listener.html#a3f4286a27d1295487ef1afa5f4e198cd", null ],

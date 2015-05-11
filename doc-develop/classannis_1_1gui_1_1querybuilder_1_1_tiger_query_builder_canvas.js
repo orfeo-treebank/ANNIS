@@ -16,7 +16,7 @@ var classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas =
     [ "updateQuery", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#ad3c12646ff136b2d11909d123adf01cd", null ],
     [ "area", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a5cffa8cf582a9639d7169f72c36cb691", null ],
     [ "canvas", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a9f91df16b4d051b1fa7f13e33fbb15d3", null ],
-    [ "controller", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a154ad029abf22f07919b9362395658d6", null ],
+    [ "controller", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a198a52a16ef0a35da4bd5efc95c1084e", null ],
     [ "edges", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a3e566f36668c2ae2038f2908b40df6ed", null ],
     [ "handler", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a409969712940ddc94b8488f9585a9986", null ],
     [ "log", "classannis_1_1gui_1_1querybuilder_1_1_tiger_query_builder_canvas.html#a865ca9dedb3bf7f88af3a8a5e8b0f31f", null ],

@@ -2,10 +2,12 @@ var classannis_1_1libgui_1_1_helper =
 [
     [ "AnnotationListType", "classannis_1_1libgui_1_1_helper_1_1_annotation_list_type.html", "classannis_1_1libgui_1_1_helper_1_1_annotation_list_type" ],
     [ "citationFragment", "classannis_1_1libgui_1_1_helper.html#ab184045422749a0aaac3979ebc3dfa7d", null ],
+    [ "citationFragment", "classannis_1_1libgui_1_1_helper.html#afaea4e59478ba58f55ac12a02bc95b28", null ],
     [ "convertExceptionToMessage", "classannis_1_1libgui_1_1_helper.html#a2a9c289e168fb5099cf2af1d4eed86b1", null ],
     [ "createRESTClient", "classannis_1_1libgui_1_1_helper.html#a55f5355af94e29fdd06189f9554dfadf", null ],
     [ "createRESTClient", "classannis_1_1libgui_1_1_helper.html#aec2ad1e4f8b0ca7895a42c8a56d28b00", null ],
     [ "encodeBase64URL", "classannis_1_1libgui_1_1_helper.html#a8ac549aa52d16ae425035bd800adb87e", null ],
+    [ "encodeTemplate", "classannis_1_1libgui_1_1_helper.html#a27841c74db936ba148f611f6f1873acd", null ],
     [ "generateCitation", "classannis_1_1libgui_1_1_helper.html#a7a365b40fa84e099cb88e9a353de3b26", null ],
     [ "generateClassicCitation", "classannis_1_1libgui_1_1_helper.html#a724365a72b63674ef2dc8b2001f53fcb", null ],
     [ "generateCorpusLink", "classannis_1_1libgui_1_1_helper.html#ac1bf36e46f170de45bf43333c5281ec7", null ],
@@ -35,6 +37,7 @@ var classannis_1_1libgui_1_1_helper =
     [ "ERROR_MESSAGE_CORPUS_PROPS_HEADER", "classannis_1_1libgui_1_1_helper.html#ae7e718f25482b868c2a2d8a8b768ec40", null ],
     [ "ERROR_MESSAGE_DOCUMENT_BROWSER_BODY", "classannis_1_1libgui_1_1_helper.html#a70c71587b5974a3e7c47345e4a65aac1", null ],
     [ "ERROR_MESSAGE_DOCUMENT_BROWSER_HEADER", "classannis_1_1libgui_1_1_helper.html#affe0c5ec7d41f476f55e472a72ae5971", null ],
+    [ "jerseyTemplateEscape", "classannis_1_1libgui_1_1_helper.html#aa2e389d6a466851b24ef952e995e8922", null ],
     [ "KEY_WEB_SERVICE_URL", "classannis_1_1libgui_1_1_helper.html#a6b951c4a552f802c72c6ad552ad689e6", null ],
     [ "log", "classannis_1_1libgui_1_1_helper.html#afc9c7047475fad58b4708fd1d4965e17", null ],
     [ "urlPathEscape", "classannis_1_1libgui_1_1_helper.html#abac067bb877afd4a79b130a50418bd0b", null ]
