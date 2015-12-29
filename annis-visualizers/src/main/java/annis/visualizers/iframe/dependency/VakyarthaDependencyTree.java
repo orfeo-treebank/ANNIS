@@ -82,6 +82,10 @@ public class VakyarthaDependencyTree extends WriterVisualizer
    */
   private final String MAPPING_NODE_KEY = "node_key";
 
+  private final String MAPPING_SHOW_ROOT = "show_root";
+  private final String MAPPING_SHOW_INCOMING = "show_incoming";
+  private final String MAPPING_SHOW_OUTGOING = "show_outgoing";
+
   private Properties mappings;
 
   
@@ -211,10 +215,22 @@ public class VakyarthaDependencyTree extends WriterVisualizer
       println("shownfeatures=[\"t\"];", writer);
       println("tokens=new Object();", writer);
 
-      // fixed placeholders for options required by updated js
-      println("showroot=true;", writer);
-      println("showincoming=true;", writer);
-      println("showoutgoing=true;", writer);
+      // Default values for the 'show' parameters:
+      boolean showRoot = true;
+      boolean showIncoming = true;
+      boolean showOutgoing = true;
+
+      // Override defaults when applicable.
+      if (mappings.containsKey(MAPPING_SHOW_ROOT))
+        showRoot = Boolean.valueOf(mappings.getProperty(MAPPING_SHOW_ROOT));
+      if (mappings.containsKey(MAPPING_SHOW_INCOMING))
+        showIncoming = Boolean.valueOf(mappings.getProperty(MAPPING_SHOW_INCOMING));
+      if (mappings.containsKey(MAPPING_SHOW_OUTGOING))
+        showOutgoing = Boolean.valueOf(mappings.getProperty(MAPPING_SHOW_OUTGOING));
+
+      println("showroot=" + showRoot + ";", writer);
+      println("showincoming=" + showIncoming + ";", writer);
+      println("showoutgoing=" + showOutgoing + ";", writer);
 
       count = 0;
       for (SNode node : selectedNodes.keySet())
