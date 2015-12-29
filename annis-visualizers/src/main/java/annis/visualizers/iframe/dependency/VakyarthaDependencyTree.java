@@ -211,6 +211,11 @@ public class VakyarthaDependencyTree extends WriterVisualizer
       println("shownfeatures=[\"t\"];", writer);
       println("tokens=new Object();", writer);
 
+      // fixed placeholders for options required by updated js
+      println("showroot=true;", writer);
+      println("showincoming=true;", writer);
+      println("showoutgoing=true;", writer);
+
       count = 0;
       for (SNode node : selectedNodes.keySet())
       {
