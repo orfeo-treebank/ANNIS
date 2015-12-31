@@ -482,6 +482,8 @@ public class SingleResultPanel extends CssLayout implements
           markedCoveredMap, markedExactMap,
           htmlID, resultID, this, segmentationName, ps, instanceConfig);
 
+        p.setVisibleRange(Integer.valueOf(lftCtxCombo.getValue().toString()),
+                Integer.valueOf(rghtCtxCombo.getValue().toString()));
         visualizers.add(p);
         resolverEntries.add(entries[i]);
 

@@ -15,7 +15,6 @@
  */
 package annis.gui.resultview;
 
-import annis.CommonHelper;
 import annis.libgui.Background;
 import annis.libgui.Helper;
 import annis.libgui.InstanceConfig;
@@ -29,6 +28,7 @@ import annis.libgui.visualizers.VisualizerInput;
 import annis.libgui.visualizers.VisualizerPlugin;
 import annis.resolver.ResolverEntry;
 import annis.visualizers.LoadableVisualizer;
+import annis.visualizers.iframe.VisibleContextAwareVisualizer;
 import com.google.common.base.Joiner;
 import com.google.common.escape.Escaper;
 import com.google.common.net.UrlEscapers;
@@ -51,8 +51,6 @@ import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -70,7 +68,6 @@ import org.corpus_tools.salt.common.SDocument;
 import org.corpus_tools.salt.common.SDocumentGraph;
 import org.corpus_tools.salt.common.SToken;
 import org.corpus_tools.salt.common.SaltProject;
-import org.corpus_tools.salt.core.SFeature;
 import org.corpus_tools.salt.core.SNode;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -139,6 +136,9 @@ public class VisualizerPanel extends CssLayout
   private VisualizerContextChanger visCtxChanger;
   
   private final static Escaper urlPathEscape = UrlEscapers.urlPathSegmentEscaper();
+
+  int leftContext = 5;
+  int rightContext = 5;
 
   /**
    * This Constructor should be used for {@link ComponentVisualizerPlugin}
@@ -297,8 +297,37 @@ public class VisualizerPanel extends CssLayout
     return c;
   }
 
+  public void setVisibleRange(int leftContext, int rightContext)
+  {
+    this.leftContext = leftContext;
+    this.rightContext = rightContext;
+  }
+
+  // Inform the visualizer about the extent of the visible context,
+  // if it needs to know about such things.
+  private void setVisibleRange(VisibleContextAwareVisualizer vp)
+  {
+    int midpoint = -1;
+    for (String s : markedAndCovered.keySet())
+    {
+      int idx = s.lastIndexOf("#sTok");
+      if (idx >= 0) {
+        // Note: Salt counts tokens from 1, relAnnis from 0.
+        midpoint = Integer.valueOf(s.substring(idx + 5)) - 1;
+        break;
+      }
+    }
+    if (midpoint >= 0)
+      vp.setVisibleRange(midpoint - leftContext, midpoint + rightContext);
+    else
+      vp.setVisibleRange(-1, -1);
+  }
+
   private VisualizerInput createInput()
   {
+    if (visPlugin instanceof VisibleContextAwareVisualizer)
+      setVisibleRange((VisibleContextAwareVisualizer)visPlugin);
+
     VisualizerInput input = new VisualizerInput();
     input.setAnnisWebServiceURL((String) VaadinSession.getCurrent().
       getAttribute("AnnisWebService.URL"));

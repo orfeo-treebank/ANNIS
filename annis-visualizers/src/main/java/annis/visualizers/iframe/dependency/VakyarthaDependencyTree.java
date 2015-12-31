@@ -20,12 +20,11 @@ import annis.libgui.visualizers.VisualizerInput;
 import static annis.model.AnnisConstants.ANNIS_NS;
 import static annis.model.AnnisConstants.FEAT_RELANNIS_NODE;
 import annis.model.RelannisNodeFeature;
+import annis.visualizers.iframe.VisibleContextAwareVisualizer;
 import annis.visualizers.iframe.WriterVisualizer;
 import java.io.IOException;
 import java.io.Writer;
-import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -44,8 +43,6 @@ import org.corpus_tools.salt.core.SNode;
 import org.corpus_tools.salt.core.SRelation;
 import org.corpus_tools.salt.util.DataSourceSequence;
 import org.corpus_tools.salt.SALT_TYPE;
-import org.eclipse.emf.common.util.BasicEList;
-import org.eclipse.emf.common.util.EList;
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.slf4j.LoggerFactory;
@@ -70,7 +67,7 @@ import org.slf4j.LoggerFactory;
  * @author Kim Gerdes
  */
 @PluginImplementation
-public class VakyarthaDependencyTree extends WriterVisualizer
+public class VakyarthaDependencyTree extends WriterVisualizer implements VisibleContextAwareVisualizer
 {
 
   private static final org.slf4j.Logger log = LoggerFactory.
@@ -88,7 +85,16 @@ public class VakyarthaDependencyTree extends WriterVisualizer
 
   private Properties mappings;
 
-  
+  private int minVisible = -1;
+  private int maxVisible = -1;
+
+  @Override
+  public void setVisibleRange(int minVisible, int maxVisible)
+  {
+    this.minVisible = minVisible;
+    this.maxVisible = maxVisible;
+  }
+
   @Override
   public String getShortName()
   {
@@ -171,13 +177,6 @@ public class VakyarthaDependencyTree extends WriterVisualizer
       }
     }
 
-    Map<SNode, Integer> node2Int = new HashMap<SNode, Integer>();
-    int count = 0;
-    for (SNode tok : selectedNodes.keySet())
-    {
-      node2Int.put(tok, count++);
-    }
-    
 
     try
     {
@@ -232,7 +231,12 @@ public class VakyarthaDependencyTree extends WriterVisualizer
       println("showincoming=" + showIncoming + ";", writer);
       println("showoutgoing=" + showOutgoing + ";", writer);
 
-      count = 0;
+      if (minVisible >= 0 && maxVisible >= 0)
+      {
+        println("minvisible=" + minVisible + ";", writer);
+        println("maxvisible=" + maxVisible + ";", writer);
+      }
+
       for (SNode node : selectedNodes.keySet())
       {
         JSONObject vakyarthaObject = new JSONObject();
@@ -295,9 +299,9 @@ public class VakyarthaDependencyTree extends WriterVisualizer
                 break;
               }
 
-              if (sRelation.getSource() != null && node2Int.containsKey(source))
+              if (sRelation.getSource() != null && selectedNodes.containsKey(source))
               {
-                govs.put(String.valueOf(node2Int.get(source)), label);
+                govs.put(String.valueOf(selectedNodes.get(source)), label);
               }
             }
           } // end if pointing relation
@@ -325,7 +329,7 @@ public class VakyarthaDependencyTree extends WriterVisualizer
         attris.put("deptext", depAttris);
         vakyarthaObject.put("attris", attris);
 
-        writer.append("tokens[").append("" + count++).append("]=");
+        writer.append("tokens[").append(selectedNodes.get(node).toString()).append("]=");
         writer.append(vakyarthaObject.toString().replaceAll("\n", " "));
         writer.append(";\n");
       }
