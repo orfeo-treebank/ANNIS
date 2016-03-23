@@ -86,6 +86,7 @@ public class CommonAnnotateWithClauseGenerator
 
         result.add(getRangeWithClause(corpusList, indent));
         result.add(getParentsWithClause(corpusList, indent));
+        result.add(getChildrenWithClause(corpusList, indent));
         result.add(getTargetsWithClause(corpusList, indent));
       }
       else
@@ -248,7 +249,7 @@ public class CommonAnnotateWithClauseGenerator
     sb.append(indent).append("(\n");
 
     sb.append(indent2).append("SELECT DISTINCT ");
-    sb.append("solutions.key, solutions.n, facts.id, facts.parent, corpus.path_name AS path\n");
+    sb.append("solutions.key, solutions.n, facts.id, facts.parent, facts.rank_id, corpus.path_name AS path\n");
     sb.append(indent2).append("FROM ").append(factsAlias).append(", corpus, solutions\n");
     sb.append(indent2).append("WHERE\n");
     sb.append(indent3).append(tas.aliasedColumn(NODE_TABLE, "toplevel_corpus")).
@@ -310,8 +311,44 @@ public class CommonAnnotateWithClauseGenerator
   }
 
   /**
-   * Combine the visible range with the set of parents to make up the complete
-   * set of match targets.
+   * Find children of nodes within the visible range, i.e. nodes which have
+   * a parent within the range (whether the child node itself is inside
+   * or outside the range).
+   */
+  protected String getChildrenWithClause(
+          List<Long> corpusList,
+          String indent)
+  {
+    String indent2 = indent + TABSTOP;
+    String indent3 = indent2 + TABSTOP;
+
+    TableAccessStrategy tas = createTableAccessStrategy();
+    String factsAlias = AbstractFromClauseGenerator.tableAliasDefinition(tas,
+            null, NODE_TABLE, 1, corpusList);
+
+    StringBuilder sb = new StringBuilder();
+
+    sb.append(indent).append("children AS\n");
+    sb.append(indent).append("(\n");
+
+    sb.append(indent2).append("SELECT DISTINCT ");
+    sb.append("solutions.key, solutions.n, facts.id, corpus.path_name AS path\n");
+    sb.append(indent2).append("FROM ").append(factsAlias).append(", range, corpus, solutions\n");
+    sb.append(indent2).append("WHERE\n");
+    sb.append(indent3).append(tas.aliasedColumn(NODE_TABLE, "parent")).append(" = range.rank_id\n");
+    // corpus constriction
+    sb.append(indent2).append("AND\n");
+    sb.append(indent3).append(tas.aliasedColumn(CORPUS_TABLE, "id")).append(" = ");
+    sb.append(tas.aliasedColumn(NODE_TABLE, "corpus_ref")).append("\n");
+
+    sb.append(indent).append(")");
+
+    return sb.toString();
+  }
+
+  /**
+   * Combine the visible range with the sets of parents and children
+   * to make up the complete set of match targets.
    */
   protected String getTargetsWithClause(
           List<Long> corpusList,
@@ -325,6 +362,8 @@ public class CommonAnnotateWithClauseGenerator
     sb.append(indent2).append("SELECT key, n, id, path FROM range\n");
     sb.append(indent2).append("UNION\n");
     sb.append(indent2).append("SELECT key, n, id, path FROM parents\n");
+    sb.append(indent2).append("UNION\n");
+    sb.append(indent2).append("SELECT key, n, id, path FROM children\n");
     sb.append(indent).append(")");
 
     return sb.toString();
