@@ -19,7 +19,10 @@ import annis.model.QueryNode;
 import annis.ql.parser.QueryData;
 import static annis.sqlgen.AbstractSqlGenerator.TABSTOP;
 import static annis.sqlgen.SqlConstraints.sqlString;
+import static annis.sqlgen.TableAccessStrategy.CORPUS_TABLE;
 import static annis.sqlgen.TableAccessStrategy.NODE_TABLE;
+import static annis.sqlgen.TableAccessStrategy.RANK_TABLE;
+
 import annis.sqlgen.extensions.AnnotateQueryData;
 import com.google.common.collect.Lists;
 import java.util.HashMap;
@@ -36,7 +39,6 @@ public class CommonAnnotateWithClauseGenerator
   extends TableAccessStrategyFactory
   implements WithClauseSqlGenerator<QueryData>
 {
-  
   private AnnotateInnerQuerySqlGenerator innerQuerySqlGenerator;
   private IslandsPolicy islandsPolicy;
   
@@ -82,6 +84,9 @@ public class CommonAnnotateWithClauseGenerator
         // row
         result.add(getSolutionFromMatchesWithClause(policy, "matches", indent));
 
+        result.add(getRangeWithClause(corpusList, indent));
+        result.add(getParentsWithClause(corpusList, indent));
+        result.add(getTargetsWithClause(corpusList, indent));
       }
       else
       {
@@ -223,7 +228,108 @@ public class CommonAnnotateWithClauseGenerator
 
   }
 
-  
+  /**
+   * Find nodes within the visible range.
+   */
+  protected String getRangeWithClause(
+            List<Long> corpusList,
+            String indent)
+  {
+    String indent2 = indent + TABSTOP;
+    String indent3 = indent2 + TABSTOP;
+
+    TableAccessStrategy tas = createTableAccessStrategy();
+    String factsAlias = AbstractFromClauseGenerator.tableAliasDefinition(tas,
+                        null, NODE_TABLE, 1, corpusList);
+
+    StringBuilder sb = new StringBuilder();
+
+    sb.append(indent).append("range AS\n");
+    sb.append(indent).append("(\n");
+
+    sb.append(indent2).append("SELECT DISTINCT ");
+    sb.append("solutions.key, solutions.n, facts.id, facts.parent, corpus.path_name AS path\n");
+    sb.append(indent2).append("FROM ").append(factsAlias).append(", corpus, solutions\n");
+    sb.append(indent2).append("WHERE\n");
+    sb.append(indent3).append(tas.aliasedColumn(NODE_TABLE, "toplevel_corpus")).
+            append(" IN (").append(StringUtils.join(corpusList, ",")).append(")\n");
+    sb.append(indent2).append("AND\n");
+
+    if (!tas.isMaterialized(RANK_TABLE, NODE_TABLE))
+    {
+      sb.append(indent3).append(tas.aliasedColumn(RANK_TABLE, "toplevel_corpus")).
+            append(" IN (").append(StringUtils.join(corpusList, ", ")).append(")\n");
+      sb.append(indent2).append("AND\n");
+    }
+
+    sb.append(overlapForOneRange(indent3, "solutions.\"min\"", "solutions.\"max\"",
+            "solutions.text", "solutions.corpus", tas)).append("\n");
+    // corpus constriction
+    sb.append(indent2).append("AND\n");
+    sb.append(indent3).append(tas.aliasedColumn(CORPUS_TABLE, "id")).append(" = ");
+    sb.append(tas.aliasedColumn(NODE_TABLE, "corpus_ref")).append("\n");
+
+    sb.append(indent).append(")");
+
+    return sb.toString();
+  }
+
+  /**
+   * Find parents of nodes within the visible range (whether the parent itself is
+   * inside or outside the range).
+   */
+  protected String getParentsWithClause(
+          List<Long> corpusList,
+          String indent)
+  {
+    String indent2 = indent + TABSTOP;
+    String indent3 = indent2 + TABSTOP;
+
+    TableAccessStrategy tas = createTableAccessStrategy();
+    String factsAlias = AbstractFromClauseGenerator.tableAliasDefinition(tas,
+            null, NODE_TABLE, 1, corpusList);
+
+    StringBuilder sb = new StringBuilder();
+
+    sb.append(indent).append("parents AS\n");
+    sb.append(indent).append("(\n");
+
+    sb.append(indent2).append("SELECT DISTINCT ");
+    sb.append("solutions.key, solutions.n, facts.id, corpus.path_name AS path\n");
+    sb.append(indent2).append("FROM ").append(factsAlias).append(", range, corpus, solutions\n");
+    sb.append(indent2).append("WHERE\n");
+    sb.append(indent3).append("range.parent = ").append(tas.aliasedColumn(NODE_TABLE, "rank_id")).append("\n");
+    // corpus constriction
+    sb.append(indent2).append("AND\n");
+    sb.append(indent3).append(tas.aliasedColumn(CORPUS_TABLE, "id")).append(" = ");
+    sb.append(tas.aliasedColumn(NODE_TABLE, "corpus_ref")).append("\n");
+
+    sb.append(indent).append(")");
+
+    return sb.toString();
+  }
+
+  /**
+   * Combine the visible range with the set of parents to make up the complete
+   * set of match targets.
+   */
+  protected String getTargetsWithClause(
+          List<Long> corpusList,
+          String indent)
+  {
+    String indent2 = indent + TABSTOP;
+
+    StringBuilder sb = new StringBuilder();
+    sb.append(indent).append("targets AS\n");
+    sb.append(indent).append("(\n");
+    sb.append(indent2).append("SELECT key, n, id, path FROM range\n");
+    sb.append(indent2).append("UNION\n");
+    sb.append(indent2).append("SELECT key, n, id, path FROM parents\n");
+    sb.append(indent).append(")");
+
+    return sb.toString();
+  }
+
   protected String getNearestSeqWithClause(
     QueryData queryData, AnnotateQueryData annoQueryData,
     List<QueryNode> alternative, String matchesName, String indent)

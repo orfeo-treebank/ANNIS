@@ -130,44 +130,8 @@ public class AnnotateSqlGenerator<T>
         result.add(tables.aliasedColumn(NODE_TABLE, "is_token") + " IS TRUE");
       }
     }
-    
-    StringBuilder sb = new StringBuilder();
 
-    // restrict node table to corpus list
-    List<Long> corpusList = queryData.getCorpusList();
-    if (corpusList != null && !corpusList.isEmpty())
-    {
-      sb.append(indent);
-      sb.append(tables.aliasedColumn(NODE_TABLE, "toplevel_corpus"));
-      sb.append(" IN (");
-      sb.append(StringUtils.join(corpusList, ", "));
-      sb.append(") AND\n");
-
-      if (!tables.isMaterialized(RANK_TABLE, NODE_TABLE))
-      {
-        sb.append(indent);
-        sb.append(tables.aliasedColumn(RANK_TABLE, "toplevel_corpus"));
-        sb.append(" IN (");
-        sb.append(StringUtils.join(corpusList, ", "));
-        sb.append(") AND\n");
-      }
-    }
-
-
-    String overlap = CommonAnnotateWithClauseGenerator.overlapForOneRange(indent + TABSTOP,
-      "solutions.\"min\"", "solutions.\"max\"", "solutions.text", "solutions.corpus",
-      tables);
-    sb.append(overlap);
-    sb.append("\n");
-
-    // corpus constriction
-    sb.append(" AND\n");
-    sb.append(indent).append(TABSTOP);
-    sb.append(tables.aliasedColumn(CORPUS_TABLE, "id"));
-    sb.append(" = ");
-    sb.append(tables.aliasedColumn(NODE_TABLE, "corpus_ref"));
-
-    result.add(sb.toString());
+    result.add(tables.aliasedColumn(NODE_TABLE, "id") + " = targets.id");
 
     return result;
   }
@@ -178,7 +142,7 @@ public class AnnotateSqlGenerator<T>
     List<QueryNode> alternative, String indent)
   {
     StringBuilder sb = new StringBuilder();
-    sb.append("solutions.n, ");
+    sb.append("targets.n, ");
     sb.append(tables(null).aliasedColumn(COMPONENT_TABLE, "name")).append(", ");
     sb.append(tables(null).aliasedColumn(COMPONENT_TABLE, "id")).append(", ");
     String preColumn = tables(null).aliasedColumn(RANK_TABLE, "pre");
@@ -195,16 +159,13 @@ public class AnnotateSqlGenerator<T>
     List<Long> corpusList = queryData.getCorpusList();
     StringBuilder sb = new StringBuilder();
     
-    sb.append(indent).append("solutions,\n");
-
     sb.append(indent).append(TABSTOP);
     sb.append(
       AbstractFromClauseGenerator.tableAliasDefinition(tas, 
         null, NODE_TABLE, 1, corpusList));
     sb.append(",\n");
 
-    sb.append(indent).append(TABSTOP);
-    sb.append(TableAccessStrategy.CORPUS_TABLE);
+    sb.append(indent).append(TABSTOP).append("targets");
 
     return sb.toString();
   }
@@ -218,7 +179,7 @@ public class AnnotateSqlGenerator<T>
 
     sb.append("DISTINCT\n");
     
-    sb.append(innerIndent).append("solutions.\"key\",\n");
+    sb.append(innerIndent).append("targets.\"key\",\n");
     sb.append(innerIndent);
     
     int matchStart = 0;
@@ -230,7 +191,7 @@ public class AnnotateSqlGenerator<T>
     }
 
     sb.append(matchStart).append(" AS \"matchstart\",\n");
-    sb.append(innerIndent).append("solutions.n,\n");
+    sb.append(innerIndent).append("targets.n,\n");
 
     List<String> fields = getSelectFields();
 
@@ -238,7 +199,7 @@ public class AnnotateSqlGenerator<T>
     sb.append(innerIndent).append(",\n");
 
     // corpus.path_name
-    sb.append(innerIndent).append("corpus.path_name AS path");
+    sb.append(innerIndent).append("targets.path");
 
     if (isIncludeDocumentNameInAnnotateQuery())
     {

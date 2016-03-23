@@ -394,7 +394,7 @@ public class TestAnnotateSqlGenerator
     // when
     String actual = generator.orderByClause(queryData, alternative, INDENT);
     // then
-    String expected = "solutions.n, " + edgeNameAlias + ", " + idAlias + ", " + preAlias;
+    String expected = "targets.n, " + edgeNameAlias + ", " + idAlias + ", " + preAlias;
     assertThat(actual, is(expected));
   }
   
